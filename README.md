@@ -17,7 +17,7 @@
 
 - 👨‍💻 All of my projects are available at [Portfolio](https://portfolio-nejamulhaque.vercel.app/)
 
-- 📝 I regularly write articles on [haque-and-sons.vercel.app](haque-and-sons.vercel.app)
+- 📝 I regularly write articles on [Blog](https://portfolio-nejamulhaque.vercel.app/)
 
 - 📫 How to reach me **nejamulhaque.05@gmail.com**
 
