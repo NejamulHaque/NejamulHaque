@@ -41,7 +41,7 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats-green-six-41.vercel.app/api?username=NejamulHaque&show_icons=true&locale=en" alt="nejamulhaque" /></p>
 
 <!-- GitHub Trophies -->
-[![trophy](https://your-vercel-url.vercel.app/?username=NejamulHaque&theme=radical)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy-ashy-kappa.vercel.app//?username=NejamulHaque&theme=radical)](https://github.com/ryo-ma/github-profile-trophy)
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=NejamulHaque&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
