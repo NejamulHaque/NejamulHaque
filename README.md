@@ -15,13 +15,13 @@
   - Open-source projects with real-world impact
   - Anything creative, useful, and fun!
 
-- 👨‍💻 All of my projects are available at [portfolio-ai-theta.vercel.app](portfolio-ai-theta.vercel.app)
+- 👨‍💻 All of my projects are available at [portfolio-ai-theta.vercel.app](https://portfolio-nejamulhaque.vercel.app/)
 
 - 📝 I regularly write articles on [haque-and-sons.vercel.app](haque-and-sons.vercel.app)
 
 - 📫 How to reach me **nejamulhaque.05@gmail.com**
 
-- 📄 Know about my experiences [portfolio-ai-theta.vercel.app](portfolio-ai-theta.vercel.app)
+- 📄 Know about my experiences [portfolio-ai-theta.vercel.app](https://portfolio-nejamulhaque.vercel.app/)
 
 - ⚡ Fun fact **Currently Studying Computer Science.**
 
