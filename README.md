@@ -5,7 +5,7 @@
 
 <p align="left"><a href="https://twitter.com/nejamul_haque_" target="blank"><img src="https://img.shields.io/twitter/follow/nejamul_haque_?logo=twitter&style=for-the-badge" alt="nejamul_haque_" /></a></p>
 
-- 🔭 I’m currently working on [Haque And Sons](https://haque-and-sons.vercel.app)
+- 🔭 I’m currently working on [Haque And Sons](https://haque-and-sons.web.app/)
 
 - 🌱 I’m currently learning **Frameworks and New Skills.**
 
@@ -17,7 +17,7 @@
 
 - 👨‍💻 All of my projects are available at [Portfolio](https://portfolio-nejamulhaque.vercel.app/)
 
-- 📝 I regularly write articles on [Blog](https://portfolio-nejamulhaque.vercel.app/)
+- 📝 I regularly write articles on [Blog](https://nejamulhaque.medium.com/)
 
 - 📫 How to reach me **nejamulhaque.05@gmail.com**
 
@@ -48,5 +48,3 @@
 
 ---
 [![](https://visitcount.itsvg.in/api?id=NejamulHaque&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
