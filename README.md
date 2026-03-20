@@ -1,5 +1,5 @@
 <!-- Header Banner -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&height=220&text=Nejamul%20Haque&fontSize=75&color=0:0D1117,100:0D1117&stroke=00D9FF&strokeWidth=3&fontColor=00D9FF&animation=fadeIn&desc=Full%20Stack%20Engineer%20%7C%20Open%20Source%20Advocate%20%7C%20Problem%20Solver&descSize=20&descAlignY=75&descColor=8B949E"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&height=220&text=Nejamul%20Haque&fontSize=75&color=0:0D1117,100:0D1117&stroke=00D9FF&strokeWidth=3&fontColor=00D9FF&animation=fadeIn&desc=Full%20Stack%20and%20AI%20Engineer%20%7C%20Open%20Source%20Advocate%20%7C%20Problem%20Solver&descSize=20&descAlignY=75&descColor=8B949E"/>
 
 <div align="center">
   <a href="https://github.com/NejamulHaque">
