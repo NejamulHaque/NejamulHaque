@@ -1,6 +1,7 @@
 <!-- Header Banner -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=venom&height=220&text=Nejamul%20Haque&fontSize=75&color=0:0D1117,100:0D1117&stroke=00D9FF&strokeWidth=3&fontColor=00D9FF&animation=fadeIn&desc=Full%20Stack%20and%20AI%20Engineer%20%7C%20Open%20Source%20Advocate%20%7C%20Problem%20Solver&descSize=20&descAlignY=75&descColor=8B949E"/>
 
+<!-- Live Badges Row -->
 <div align="center">
   <a href="https://github.com/NejamulHaque">
     <img src="https://komarev.com/ghpvc/?username=NejamulHaque&style=for-the-badge&color=00D9FF&label=PROFILE+VIEWS"/>
@@ -8,31 +9,37 @@
   <img src="https://img.shields.io/github/followers/NejamulHaque?style=for-the-badge&color=00D9FF&labelColor=0D1117&label=FOLLOWERS"/>
   <img src="https://img.shields.io/badge/OPEN%20TO-WORK-00D9FF?style=for-the-badge&labelColor=0D1117"/>
   <img src="https://img.shields.io/badge/FAANG-READY-00D9FF?style=for-the-badge&labelColor=0D1117"/>
+  <img src="https://img.shields.io/badge/3%2B-YEARS%20EXP-00D9FF?style=for-the-badge&labelColor=0D1117"/>
 </div>
 
 <br/>
 
+<!-- Animated Terminal Typing -->
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=500&color=00D9FF&center=true&vCenter=true&width=750&lines=const+developer+%3D+new+NejamulHaque();+%F0%9F%9A%80;developer.skills.push('System+Design');+%F0%9F%8F%97%EF%B8%8F;developer.passion+%3D+'Building+at+Scale';+%E2%9A%A1;while(true)+%7B+code()+%7C%7C+learn()+%7D+%F0%9F%94%A5;%3E+git+commit+-m+'One+step+closer+to+FAANG'+%F0%9F%8E%AF" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=500&color=00D9FF&center=true&vCenter=true&width=750&lines=const+developer+%3D+new+NejamulHaque();+%F0%9F%9A%80;developer.skills.push('System+Design');+%F0%9F%8F%97%EF%B8%8F;developer.passion+%3D+'Building+at+Scale';+%E2%9A%A1;while(true)+%7B+code()+%7C%7C+learn()+%7D+%F0%9F%94%A5;%3E+git+commit+-m+'One+step+closer+to+FAANG'+%F0%9F%8E%AF"/>
 </div>
 
 ---
 
-## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> About Me
+<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> About Me
+<img align="right" width="380" src="https://raw.githubusercontent.com/Potential17/Potential17/master/user%20(2).gif"/>
 ```json
 {
   "name"           : "Nejamul Haque",
-  "title"          : "Full Stack Software Engineer",
+  "title"          : "Full Stack & AI Engineer | MERN Specialist",
   "location"       : "India 🇮🇳",
   "available"      : true,
   "experience"     : "3+ Years",
   "education"      : "B.Tech Computer Science",
+  "specialization" : "MERN Stack | Microservices | Cloud",
   "currentFocus"   : ["System Design", "DSA Mastery", "Cloud Architecture"],
   "hobbies"        : ["Competitive Programming", "Open Source", "Tech Blogging"],
   "portfolio"      : "https://portfolio.nejamulhaque.vercel.app",
+  "contact"        : "nejamulhaque.05@gmail.com",
   "lifePhilosophy" : "Ship fast. Learn faster. Scale always. 🚀"
 }
 ```
+<br clear="right"/>
 
 ---
 
@@ -100,14 +107,11 @@
 
 <div align="center">
 
-| Metric | Value |
-|--------|-------|
-| 🧠 DSA Problems Solved | 30+ |
-| ⭐ GitHub Stars Earned | 5+ |
-| 🔀 Pull Requests Merged | 5+ |
-| 🏆 Hackathons Won | 2+ |
-| 📝 Tech Articles Written | 6+ |
-| ☕ Cups of Coffee | ∞ |
+| 🏷️ Metric | 📈 Value | 🏷️ Metric | 📈 Value |
+|-----------|---------|-----------|---------|
+| 🧠 DSA Problems | 30+ | ☕ Coffee Consumed | ∞ |
+| ⭐ GitHub Stars | 5+ | 🏆 Hackathons Won | 2+ |
+| 🔀 PRs Merged | 5+ | 📝 Articles Written | 6+ |
 
 </div>
 
@@ -177,6 +181,17 @@ graph TD
 ## 🚀 Featured Projects
 
 <div align="center">
+
+| 🚀 Project | 📄 Description | 🛠️ Tech Stack |
+|-----------|---------------|--------------|
+| [CollabSheets](https://github.com/NejamulHaque/CollabSheets) | Real-time collaborative spreadsheet app | React, Node.js, WebSocket |
+| [Nestfy](https://github.com/NejamulHaque/Nestfy) | Smart property rental platform | Next.js, MongoDB, Express |
+| [DigitalLens](https://github.com/NejamulHaque/DigitalLens) | AI-powered digital analysis tool | Python, FastAPI, TensorFlow |
+| [Portfolio-Builder](https://github.com/NejamulHaque/Portfolio-Builder) | Drag & drop portfolio generator | React, TailwindCSS, Firebase |
+
+</div>
+
+<div align="center">
   <a href="https://github.com/NejamulHaque/CollabSheets">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=NejamulHaque&repo=CollabSheets&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&border_radius=10"/>
   </a>
@@ -197,10 +212,10 @@ graph TD
 
 <!-- BLOG-POST-LIST:START -->
 > 🔄 *Auto-updated via GitHub Actions*
-- [Top Web Development Trends in 2025](https://dev.to/nejamulhaque)
-- [AI in Resume Building: What You Should Know](https://dev.to/nejamulhaque)
-- [Building Scalable Software for Startups](https://dev.to/nejamulhaque)
-- [Generative AI: Riding the Next Wave](https://dev.to/nejamulhaque)
+- [Top Web Development Trends in 2025](https://dev.to/NejamulHaque)
+- [AI in Resume Building: What You Should Know](https://dev.to/NejamulHaque)
+- [Building Scalable Software for Startups](https://dev.to/NejamulHaque)
+- [Generative AI: Riding the Next Wave](https://dev.to/NejamulHaque)
 <!-- BLOG-POST-LIST:END -->
 
 ---
@@ -244,5 +259,6 @@ graph TD
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00D9FF,100:0D1117&height=120&section=footer&text=Let's+Build+Something+Amazing!&fontSize=24&fontColor=ffffff&animation=twinkling&fontAlignY=70"/>
 
 <div align="center">
-  <sub>⭐ Star my repos if you find them helpful! | 🤝 Open to collaborations & opportunities</sub>
+  <b>⭐ Star my repos if you find them helpful!</b><br/>
+  <sub>🤝 Open to collaborations, freelance projects & full-time opportunities</sub>
 </div>
