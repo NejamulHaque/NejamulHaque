@@ -21,8 +21,8 @@
 
 ---
 
-<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> About Me
-<img align="right" width="380" src="https://raw.githubusercontent.com/Potential17/Potential17/master/user%20(2).gif"/>
+<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"> About Me
+<img align="right" width="340" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
 ```json
 {
   "name"           : "Nejamul Haque",
