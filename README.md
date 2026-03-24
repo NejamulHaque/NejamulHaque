@@ -190,6 +190,9 @@ graph TD
 | [Portfolio-Builder](https://github.com/NejamulHaque/Portfolio-Builder) | Drag & drop portfolio generator | React, TailwindCSS, Firebase |
 
 </div>
+<div align="center">
+  <a href="https://github.com/NejamulHaque/ProResume-Builder">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=NejamulHaque&repo=ProResume-Builder&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&border_radius=10"/>
 
 <div align="center">
   <a href="https://github.com/NejamulHaque/CollabSheets">
@@ -212,6 +215,7 @@ graph TD
 
 <!-- BLOG-POST-LIST:START -->
 > 🔄 *Auto-updated via GitHub Actions*
+> (https://nejamulhaque.medium.com/)
 - [Top Web Development Trends in 2025](https://dev.to/NejamulHaque)
 - [AI in Resume Building: What You Should Know](https://dev.to/NejamulHaque)
 - [Building Scalable Software for Startups](https://dev.to/NejamulHaque)
