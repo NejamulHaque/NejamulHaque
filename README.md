@@ -22,7 +22,7 @@
 ---
 
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"> About Me
-<img align="right" width="330" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
+<!-- <img align="right" width="330" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/> -->
 ```json
 {
   "name"           : "Nejamul Haque",
@@ -187,7 +187,8 @@ graph TD
 | [CollabSheets](https://github.com/NejamulHaque/CollabSheets) | Real-time collaborative spreadsheet app | React, Node.js, WebSocket |
 | [Nestfy](https://github.com/NejamulHaque/Nestfy) | Smart property rental platform | Next.js, MongoDB, Express |
 | [DigitalLens](https://github.com/NejamulHaque/DigitalLens) | AI-powered digital analysis tool | Python, FastAPI, TensorFlow |
-| [Portfolio-Builder](https://github.com/NejamulHaque/Portfolio-Builder) | Drag & drop portfolio generator | React, TailwindCSS, Firebase |
+| [Portfolio-Builder](https://github.com/NejamulHaque/Portfolio-Builder) | Drag & drop portfolio generator | React, TailwindCSS, Supabase |
+| [ProResume-Builder](https://github.com/NejamulHaque/ProResume-Builder) | Build ATS-friendly professional resumes in minutes — free forever. | React, TailwindCSS, Supabase |
 
 </div>
 <div align="center">
