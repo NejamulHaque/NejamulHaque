@@ -120,7 +120,7 @@
 ## 📈 GitHub Intelligence
 
 <div align="center">
-  <img height="195px" src="https://github-readme-stats.vercel.app/api?username=NejamulHaque&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=C9D1D9&border_radius=10"/>
+  <img height="195px" src="https://github-readme-stats.vercel.app/api?username=Nejamul Haque&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=C9D1D9&border_radius=10"/>
   <img height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NejamulHaque&layout=compact&langs_count=8&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=C9D1D9&border_radius=10"/>
 </div>
 
