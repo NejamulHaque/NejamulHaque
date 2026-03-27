@@ -34,7 +34,7 @@
   "specialization" : "MERN Stack | Microservices | Cloud",
   "currentFocus"   : ["System Design", "DSA Mastery", "Cloud Architecture"],
   "hobbies"        : ["Competitive Programming", "Open Source", "Tech Blogging"],
-  "portfolio"      : "https://portfolio.nejamulhaque.vercel.app",
+  "portfolio"      : "https://nejamulhaque.vercel.app",
   "contact"        : "nejamulhaque.05@gmail.com",
   "lifePhilosophy" : "Ship fast. Learn faster. Scale always. 🚀"
 }
@@ -231,7 +231,7 @@ graph TD
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/NejamulHaque)
 [![Twitter/X](https://img.shields.io/badge/Twitter-Follow-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/Nejamul_Haque_)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://portfolio.nejamulhaque.vercel.app)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://nejamulhaque.vercel.app)
 [![Dev.to](https://img.shields.io/badge/Dev.to-Read-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white)](https://dev.to/NejamulHaque)
 [![Gmail](https://img.shields.io/badge/Gmail-Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nejamulhaque.05@gmail.com)
 [![Resume](https://img.shields.io/badge/Resume-Download-00D9FF?style=for-the-badge&logo=adobe-acrobat-reader&logoColor=white)](https://portfolio.nejamulhaque.vercel.app)
