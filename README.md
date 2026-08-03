@@ -1,5 +1,5 @@
 <!-- Header Banner -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=blur&height=220&text=Nejamul%20Haque&fontSize=75&color=0:0D1117,100:0D1117&stroke=00D9FF&strokeWidth=3&fontColor=00D9FF&animation=fadeIn&desc=DevSecOps%20Engineer%20%7C%20Cloud%20and%20Security%20Enthusiast%20%7C%20Automation%20First&descSize=20&descAlignY=75&descColor=8B949E"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=blur&height=220&text=Nejamul%20Haque&fontSize=75&color=0:0D1117,100:0D1117&stroke=00D9FF&strokeWidth=3&fontColor=000000&animation=fadeIn&desc=DevSecOps%20Engineer%20%7C%20Cloud%20and%20Security%20Enthusiast%20%7C%20Automation%20First&descSize=20&descAlignY=75&descColor=8B949E"/>
 
 <!-- Live Badges Row -->
 <div align="center">
