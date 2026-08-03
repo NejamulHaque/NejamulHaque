@@ -1,5 +1,5 @@
 <!-- Header Banner -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&height=220&text=Nejamul%20Haque&fontSize=75&color=0:0D1117,100:0D1117&stroke=00D9FF&strokeWidth=3&fontColor=00D9FF&animation=fadeIn&desc=Full%20Stack%20and%20AI%20Engineer%20%7C%20Open%20Source%20Advocate%20%7C%20Problem%20Solver&descSize=20&descAlignY=75&descColor=8B949E"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=blur&height=220&text=Nejamul%20Haque&fontSize=75&color=0:0D1117,100:0D1117&stroke=00D9FF&strokeWidth=3&fontColor=00D9FF&animation=fadeIn&desc=DevSecOps%20Engineer%20%7C%20Cloud%20and%20Security%20Enthusiast%20%7C%20Automation%20First&descSize=20&descAlignY=75&descColor=8B949E"/>
 
 <!-- Live Badges Row -->
 <div align="center">
@@ -8,98 +8,98 @@
   </a>
   <img src="https://img.shields.io/github/followers/NejamulHaque?style=for-the-badge&color=00D9FF&labelColor=0D1117&label=FOLLOWERS"/>
   <img src="https://img.shields.io/badge/OPEN%20TO-WORK-00D9FF?style=for-the-badge&labelColor=0D1117"/>
-  <img src="https://img.shields.io/badge/FAANG-READY-00D9FF?style=for-the-badge&labelColor=0D1117"/>
-  <img src="https://img.shields.io/badge/3%2B-YEARS%20EXP-00D9FF?style=for-the-badge&labelColor=0D1117"/>
+  <img src="https://img.shields.io/badge/DEVSECOPS-FOCUSED-00D9FF?style=for-the-badge&labelColor=0D1117"/>
+  <img src="https://img.shields.io/badge/SECURE-BY%20DESIGN-00D9FF?style=for-the-badge&labelColor=0D1117"/>
 </div>
 
 <br/>
 
 <!-- Animated Terminal Typing -->
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=500&color=00D9FF&center=true&vCenter=true&width=750&lines=const+developer+%3D+new+NejamulHaque();+%F0%9F%9A%80;developer.skills.push('System+Design');+%F0%9F%8F%97%EF%B8%8F;developer.passion+%3D+'Building+at+Scale';+%E2%9A%A1;while(true)+%7B+code()+%7C%7C+learn()+%7D+%F0%9F%94%A5;%3E+git+commit+-m+'One+step+closer+to+FAANG'+%F0%9F%8E%AF"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=500&color=00D9FF&center=true&vCenter=true&width=750&lines=const+engineer+%3D+new+NejamulHaque();+%F0%9F%9A%80;engineer.mindset+%3D+'Automate+everything';+%E2%9A%99%EF%B8%8F;engineer.priority+%3D+'Security+first,+always';+%F0%9F%94%92;while(true)+%7B+harden()+%7C%7C+automate()+%7D+%F0%9F%9B%A1%EF%B8%8F;%3E+git+commit+-m+'Shipping+secure+pipelines'+%F0%9F%8E%AF"/>
 </div>
 
 ---
 
-<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"> About Me
-<!-- <img align="right" width="330" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/> -->
+## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"> About Me
+
 ```json
 {
   "name"           : "Nejamul Haque",
-  "title"          : "Full Stack & AI Engineer | MERN Specialist",
+  "title"          : "Aspiring DevSecOps Engineer",
   "location"       : "India 🇮🇳",
-  "available"      : true,
-  "experience"     : "3+ Years",
+  "available"      : "true",
   "education"      : "B.Tech Computer Science",
-  "specialization" : "MERN Stack | Microservices | Cloud",
-  "currentFocus"   : ["System Design", "DSA Mastery", "Cloud Architecture"],
-  "hobbies"        : ["Competitive Programming", "Open Source", "Tech Blogging"],
+  "coreSkills"     : ["Linux", "Networking", "Shell & Python Scripting", "Git & GitHub"],
+  "currentFocus"   : ["CI/CD Pipelines", "Containers & Orchestration", "Cloud Security", "Infrastructure as Code"],
+  "philosophy"     : "Security is not a checkpoint, it's part of every pipeline.",
   "portfolio"      : "https://nejamulhaque.vercel.app",
-  "contact"        : "nejamulhaque.05@gmail.com",
-  "lifePhilosophy" : "Ship fast. Learn faster. Scale always. 🚀"
+  "contact"        : "nejamulhaque.05@gmail.com"
 }
 ```
-<br clear="right"/>
+
+<br/>
 
 ---
 
 ## ⚡ Tech Arsenal
 
 <details open>
-<summary><b>🖥️ Languages</b></summary><br/>
+<summary><b>🐧 Linux & Systems</b></summary><br/>
 
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
+![Shell Scripting](https://img.shields.io/badge/Shell_Scripting-89E051?style=for-the-badge&logo=gnu-bash&logoColor=black)
+</details>
+
+<details open>
+<summary><b>🌐 Networking</b></summary><br/>
+
+![TCP/IP](https://img.shields.io/badge/TCP%2FIP-00599C?style=for-the-badge&logo=cisco&logoColor=white)
+![DNS](https://img.shields.io/badge/DNS-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white)
+![Firewalls](https://img.shields.io/badge/Firewalls-D32F2F?style=for-the-badge&logo=protonvpn&logoColor=white)
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
+</details>
+
+<details open>
+<summary><b>💻 Scripting & Programming</b></summary><br/>
+
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![Bash Scripting](https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
+![YAML](https://img.shields.io/badge/YAML-CB171E?style=for-the-badge&logo=yaml&logoColor=white)
 </details>
 
 <details open>
-<summary><b>🎨 Frontend</b></summary><br/>
+<summary><b>🔧 Version Control</b></summary><br/>
 
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/Tailwind-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white)
-![Three.js](https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=three.js&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
 </details>
 
 <details open>
-<summary><b>⚙️ Backend & APIs</b></summary><br/>
+<summary><b>🚀 CI/CD, Containers & Cloud (Learning / In Progress)</b></summary><br/>
 
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
-![gRPC](https://img.shields.io/badge/gRPC-4285F4?style=for-the-badge&logo=google&logoColor=white)
-![Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white)
-</details>
-
-<details open>
-<summary><b>🗄️ Databases</b></summary><br/>
-
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Elasticsearch](https://img.shields.io/badge/Elasticsearch-005571?style=for-the-badge&logo=elasticsearch&logoColor=white)
-![Cassandra](https://img.shields.io/badge/Cassandra-1287B1?style=for-the-badge&logo=apache-cassandra&logoColor=white)
-</details>
-
-<details open>
-<summary><b>☁️ DevOps & Cloud</b></summary><br/>
-
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=FF9900)
-![GCP](https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
 ![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
-![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
+![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=FF9900)
 </details>
+
+<details open>
+<summary><b>🛡️ Security & Monitoring (Learning / In Progress)</b></summary><br/>
+
+![OWASP](https://img.shields.io/badge/OWASP-000000?style=for-the-badge&logo=owasp&logoColor=white)
+![Nmap](https://img.shields.io/badge/Nmap-4682B4?style=for-the-badge&logo=nmap&logoColor=white)
+![Vault](https://img.shields.io/badge/HashiCorp_Vault-000000?style=for-the-badge&logo=vault&logoColor=white)
+![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
+</details>
+
+> 💡 **Note:** Badges marked *"Learning / In Progress"* reflect tools I'm actively building hands-on labs and projects around, following a solid foundation in Linux, Networking, Scripting, Git/GitHub, and Python.
 
 ---
 
@@ -109,7 +109,7 @@
 
 | 🏷️ Metric | 📈 Value | 🏷️ Metric | 📈 Value |
 |-----------|---------|-----------|---------|
-| 🧠 DSA Problems | 30+ | ☕ Coffee Consumed | ∞ |
+| 🧠 DSA / Scripting Problems | 30+ | ☕ Coffee Consumed | ∞ |
 | ⭐ GitHub Stars | 5+ | 🏆 Hackathons Won | 2+ |
 | 🔀 PRs Merged | 5+ | 📝 Articles Written | 6+ |
 
@@ -137,43 +137,42 @@
 ## 🏆 Hall of Fame
 
 <div align="center">
-  <img src="https://github-profile-trophy-ashy-kappa.vercel.app//?username=NejamulHaque&theme=radical)](https://github.com/ryo-ma/github-profile-trophy"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=NejamulHaque&theme=radical"/>
 </div>
 
 ---
 
-## 🔥 Competitive Programming
+## 🔥 Practice & Labs
 
 <div align="center">
 
 [![LeetCode](https://img.shields.io/badge/LeetCode-30%2B%20Problems-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/NejamulHaque)
+[![TryHackMe](https://img.shields.io/badge/TryHackMe-Active-212C42?style=for-the-badge&logo=tryhackme&logoColor=red)](https://tryhackme.com/)
 [![Codeforces](https://img.shields.io/badge/Codeforces-Active-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/NejamulHaque)
-[![CodeChef](https://img.shields.io/badge/CodeChef-Active-5B4638?style=for-the-badge&logo=codechef&logoColor=white)](https://www.codechef.com/users/NejamulHaque)
 [![HackerRank](https://img.shields.io/badge/HackerRank-Active-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/NejamulHaque)
 
 </div>
 
 ---
 
-## 🧠 System Design Expertise
+## 🧠 DevSecOps Pipeline Approach
+
 ```mermaid
 graph TD
-    A[Client Layer] -->|HTTPS/WSS| B[CDN + Load Balancer]
-    B --> C[API Gateway]
-    C --> D[Auth Service]
-    C --> E[Core Services]
-    E --> F[(PostgreSQL Primary)]
-    E --> G[(Redis Cache)]
-    E --> H[(MongoDB)]
-    F --> I[(PostgreSQL Replica)]
-    E --> J[Message Queue - Kafka]
-    J --> K[Worker Services]
-    K --> L[Notification Service]
-    K --> M[Analytics Engine]
+    A[Developer Commit] -->|Git Push| B[GitHub Actions CI]
+    B --> C[Static Code Analysis / SAST]
+    C --> D[Dependency & Secret Scanning]
+    D --> E[Build & Containerize - Docker]
+    E --> F[Image Vulnerability Scan]
+    F --> G[Push to Registry]
+    G --> H[Deploy - Kubernetes / IaC]
+    H --> I[Runtime Monitoring - Prometheus & Grafana]
+    I --> J[Feedback Loop to Dev]
 
     style A fill:#00D9FF,color:#000
     style B fill:#0D1117,color:#00D9FF
     style C fill:#0D1117,color:#00D9FF
+    style D fill:#0D1117,color:#00D9FF
 ```
 
 ---
@@ -188,12 +187,17 @@ graph TD
 | [Nestfy](https://github.com/NejamulHaque/Nestfy) | Smart property rental platform | Next.js, MongoDB, Express |
 | [DigitalLens](https://github.com/NejamulHaque/DigitalLens) | AI-powered digital analysis tool | Python, FastAPI, TensorFlow |
 | [Portfolio-Builder](https://github.com/NejamulHaque/Portfolio-Builder) | Drag & drop portfolio generator | React, TailwindCSS, Supabase |
-| [ProResume-Builder](https://github.com/NejamulHaque/ProResume-Builder) | Build ATS-friendly professional resumes in minutes — free forever. | React, TailwindCSS, Supabase |
+| [ProResume-Builder](https://github.com/NejamulHaque/ProResume-Builder) | Build ATS-friendly professional resumes in minutes — free forever | React, TailwindCSS, Supabase |
 
 </div>
+
+> 🛡️ **Next up:** Adding DevSecOps-focused projects — CI/CD pipelines with integrated security scanning, IaC modules, and containerized deployments — as they're completed.
+
 <div align="center">
   <a href="https://github.com/NejamulHaque/ProResume-Builder">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=NejamulHaque&repo=ProResume-Builder&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&border_radius=10"/>
+  </a>
+</div>
 
 <div align="center">
   <a href="https://github.com/NejamulHaque/CollabSheets">
@@ -261,9 +265,9 @@ graph TD
 ---
 
 <!-- Footer -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00D9FF,100:0D1117&height=120&section=footer&text=Let's+Build+Something+Amazing!&fontSize=24&fontColor=ffffff&animation=twinkling&fontAlignY=70"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00D9FF,100:0D1117&height=120&section=footer&text=Let's+Build+Secure%2C+Automated+Systems!&fontSize=24&fontColor=ffffff&animation=twinkling&fontAlignY=70"/>
 
 <div align="center">
   <b>⭐ Star my repos if you find them helpful!</b><br/>
-  <sub>🤝 Open to collaborations, freelance projects & full-time opportunities</sub>
+  <sub>🤝 Open to DevSecOps internships, entry-level roles & collaborations</sub>
 </div>
