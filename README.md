@@ -238,7 +238,7 @@ graph TD
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://nejamulhaque.vercel.app)
 [![Dev.to](https://img.shields.io/badge/Dev.to-Read-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white)](https://dev.to/NejamulHaque)
 [![Gmail](https://img.shields.io/badge/Gmail-Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nejamulhaque.05@gmail.com)
-[![Resume](https://img.shields.io/badge/Resume-Download-00D9FF?style=for-the-badge&logo=adobe-acrobat-reader&logoColor=white)](https://portfolio.nejamulhaque.vercel.app)
+[![Resume](https://img.shields.io/badge/Resume-Download-00D9FF?style=for-the-badge&logo=adobe-acrobat-reader&logoColor=white)](https://nejamulhaque.vercel.app)
 
 </div>
 
