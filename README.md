@@ -183,12 +183,10 @@ graph TD
 
 | 🚀 Project | 📄 Description | 🛠️ Tech Stack |
 |-----------|---------------|--------------|
-| [CollabSheets](https://github.com/NejamulHaque/CollabSheets) | Real-time collaborative spreadsheet app | React, Node.js, WebSocket |
-| [Nestfy](https://github.com/NejamulHaque/Nestfy) | Smart property rental platform | Next.js, MongoDB, Express |
-| [DigitalLens](https://github.com/NejamulHaque/DigitalLens) | AI-powered digital analysis tool | Python, FastAPI, TensorFlow |
+| [Sentitel-Daemon](https://github.com/NejamulHaque/sentitel-daemon) | Background Linux security daemon parsing auth logs & auto-blocking brute-force IPs via iptables | Python, Linux systemd, iptables, Regex |
+| [Threat-log-Parser](https://github.com/NejamulHaque/threat-log-parser) | ngests access logs, detects SQLi/XSS/Scanners, & enriches IPs with live Threat Intel feeds into SIEM JSON | Python, HTTPS Threat Feeds, Regex, JSON |
 | [Portfolio-Builder](https://github.com/NejamulHaque/Portfolio-Builder) | Drag & drop portfolio generator | React, TailwindCSS, Supabase |
 | [ProResume-Builder](https://github.com/NejamulHaque/ProResume-Builder) | Build ATS-friendly professional resumes in minutes — free forever | React, TailwindCSS, Supabase |
-
 </div>
 
 > 🛡️ **Next up:** Adding DevSecOps-focused projects — CI/CD pipelines with integrated security scanning, IaC modules, and containerized deployments — as they're completed.
