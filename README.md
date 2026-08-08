@@ -183,7 +183,7 @@ graph TD
 
 | 🚀 Project | 📄 Description | 🛠️ Tech Stack |
 |-----------|---------------|--------------|
-| [Sentitel-Daemon](https://github.com/NejamulHaque/sentitel-daemon) | Background Linux security daemon parsing auth logs & auto-blocking brute-force IPs via iptables | Python, Linux systemd, iptables, Regex |
+| [Sentitel-Daemon](https://github.com/NejamulHaque/sentinel-daemon) | Background Linux security daemon parsing auth logs & auto-blocking brute-force IPs via iptables | Python, Linux systemd, iptables, Regex |
 | [Threat-log-Parser](https://github.com/NejamulHaque/threat-log-parser) | ngests access logs, detects SQLi/XSS/Scanners, & enriches IPs with live Threat Intel feeds into SIEM JSON | Python, HTTPS Threat Feeds, Regex, JSON |
 | [Portfolio-Builder](https://github.com/NejamulHaque/Portfolio-Builder) | Drag & drop portfolio generator | React, TailwindCSS, Supabase |
 | [ProResume-Builder](https://github.com/NejamulHaque/ProResume-Builder) | Build ATS-friendly professional resumes in minutes — free forever | React, TailwindCSS, Supabase |
