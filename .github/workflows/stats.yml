@@ -1,20 +1,4 @@
 name: Generate GitHub Stats Cards (self-hosted, static SVGs)
-
-# PERMANENT FIX for broken stats/top-languages/streak cards.
-#
-# The old approach embedded <img> tags pointing directly at
-# github-readme-stats.vercel.app and similar shared public services.
-# Those are free, best-effort, third-party instances that get
-# rate-limited or paused with no warning — when that happens, every
-# site embedding them breaks simultaneously, with no fix on our side.
-#
-# This workflow instead GENERATES the cards ourselves via GitHub
-# Actions, using our own GITHUB_TOKEN (so we're never sharing someone
-# else's rate limit), and commits the resulting static SVGs to the
-# "output" branch of this repo. The portfolio then embeds those files
-# directly from raw.githubusercontent.com — a file we own, that exists
-# whether or not any third-party server is up.
-on:
   schedule:
     - cron: "0 4 * * *"   # once a day, 04:00 UTC (staggered from snake.yml)
   workflow_dispatch:
