@@ -257,7 +257,8 @@ graph TD
 ## ☕ Support My Work
 
 If my open-source tools or write-ups have helped you, consider buying me a coffee!
--[UPI (India):](nejamulhaque@upi)
+
+UPI (India): nejamulhaque@upi
 - [Buy Me A Coffee:](https://buymeacoffee.com/nejamulhaque)
 
 ## 💬 Dev Wisdom
