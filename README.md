@@ -254,6 +254,12 @@ graph TD
 
 ---
 
+## ☕ Support My Work
+
+If my open-source tools or write-ups have helped you, consider buying me a coffee!
+-[UPI (India):](nejamulhaque@upi)
+- [Buy Me A Coffee:](https://buymeacoffee.com/nejamulhaque)
+
 ## 💬 Dev Wisdom
 
 <div align="center">
@@ -265,7 +271,8 @@ graph TD
 <!-- Footer -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00D9FF,100:0D1117&height=120&section=footer&text=Let's+Build+Secure%2C+Automated+Systems!&fontSize=24&fontColor=ffffff&animation=twinkling&fontAlignY=70"/>
 
-<div align="center">
-  <b>⭐ Star my repos if you find them helpful!</b><br/>
-  <sub>🤝 Open to DevSecOps internships, entry-level roles & collaborations</sub>
-</div>
+<p align="center">
+<b>⭐ Star my repos if you find them helpful!</b><br/>
+<sub>🤝 Open to DevSecOps internships, entry-level roles & collaborations</sub><br/>
+<sub>Made with 💙 and a commitment to shifting security left</sub>
+</p>
