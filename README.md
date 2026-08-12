@@ -1,279 +1,350 @@
-<!-- Header Banner -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=blur&height=220&text=Nejamul%20Haque&fontSize=75&color=0:0D1117,100:0D1117&stroke=00D9FF&strokeWidth=3&fontColor=000000&animation=fadeIn&desc=DevSecOps%20Engineer%20%7C%20Cloud%20and%20Security%20Enthusiast%20%7C%20Automation%20First&descSize=20&descAlignY=75&descColor=8B949E"/>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=280&text=Nejamul%20Haque&fontSize=65&color=0:0D1117,100:161B22&fontColor=00D9FF&animation=fadeIn&desc=DevSecOps%20Engineer%20%7C%20Cloud%20Security%20%7C%20Shift%20Left%20Philosophy&descSize=18&descAlignY=72&descColor=8B949E"/>
+</p>
 
-<!-- Live Badges Row -->
-<div align="center">
-  <a href="https://github.com/NejamulHaque">
-    <img src="https://komarev.com/ghpvc/?username=NejamulHaque&style=for-the-badge&color=00D9FF&label=PROFILE+VIEWS"/>
-  </a>
-  <img src="https://img.shields.io/github/followers/NejamulHaque?style=for-the-badge&color=00D9FF&labelColor=0D1117&label=FOLLOWERS"/>
-  <img src="https://img.shields.io/badge/OPEN%20TO-WORK-00D9FF?style=for-the-badge&labelColor=0D1117"/>
-  <img src="https://img.shields.io/badge/DEVSECOPS-FOCUSED-00D9FF?style=for-the-badge&labelColor=0D1117"/>
-  <img src="https://img.shields.io/badge/SECURE-BY%20DESIGN-00D9FF?style=for-the-badge&labelColor=0D1117"/>
-</div>
+<p align="center">
+  <a href="https://github.com/NejamulHaque"><img src="https://komarev.com/ghpvc/?username=NejamulHaque&style=flat-square&color=00D9FF&label=Profile+Views"/></a>
+  <a href="https://github.com/NejamulHaque?tab=followers"><img src="https://img.shields.io/github/followers/NejamulHaque?style=flat-square&color=00D9FF&label=Followers"/></a>
+  <img src="https://img.shields.io/badge/Status-Open%20to%20Work-00FF9D?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Focus-DevSecOps-7B5CFA?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Philosophy-Secure%20by%20Design-FF6B6B?style=flat-square"/>
+</p>
 
-<br/>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=3500&pause=600&color=00D9FF&center=true&vCenter=true&width=800&lines=const+engineer+%3D+new+DevSecOps();;engineer.priority+%3D+'Security+First';+engineer.automate+%3D+true;+engineer.philosophy+%3D+'Shift+Left';+%F0%9F%9B%A1%EF%B8%8F;while(true)+%7B+harden()%3B+automate()%3B+monitor()%3B+%7D;%F0%9F%9A%80"/>
+</p>
 
-<!-- Animated Terminal Typing -->
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=500&color=00D9FF&center=true&vCenter=true&width=750&lines=const+engineer+%3D+new+NejamulHaque();+%F0%9F%9A%80;engineer.mindset+%3D+'Automate+everything';+%E2%9A%99%EF%B8%8F;engineer.priority+%3D+'Security+first,+always';+%F0%9F%94%92;while(true)+%7B+harden()+%7C%7C+automate()+%7D+%F0%9F%9B%A1%EF%B8%8F;%3E+git+commit+-m+'Shipping+secure+pipelines'+%F0%9F%8E%AF"/>
-</div>
+<p align="center">
+  <a href="#-about">About</a> • <a href="#-tech-arsenal">Skills</a> • <a href="#-featured-security-projects">Projects</a> • <a href="#-devsecops-pipeline-philosophy">Pipeline</a> • <a href="#-github-intelligence">Stats</a> • <a href="#-connect">Connect</a>
+</p>
 
 ---
 
-## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"> About Me
+## 👋 About Me
 
 ```json
 {
-  "name"           : "Nejamul Haque",
-  "title"          : "Aspiring DevSecOps Engineer",
-  "location"       : "India 🇮🇳",
-  "available"      : "true",
-  "education"      : "B.Tech Computer Science",
-  "coreSkills"     : ["Linux", "Networking", "Shell & Python Scripting", "Git & GitHub"],
-  "currentFocus"   : ["CI/CD Pipelines", "Containers & Orchestration", "Cloud Security", "Infrastructure as Code"],
-  "philosophy"     : "Security is not a checkpoint, it's part of every pipeline.",
-  "portfolio"      : "https://nejamulhaque.vercel.app",
-  "contact"        : "nejamulhaque.05@gmail.com"
+  "name": "Nejamul Haque",
+  "title": "DevSecOps & Cloud Security Engineer",
+  "location": "Bettiah, Bihar, India 🇮",
+  "education": "B.Tech Computer Science (2023–2027)",
+  "currentRole": "Cyber Security Intern @ UP Police (APCSIP-2026)",
+  "philosophy": "Security is an infrastructure boundary, not a late-stage patch",
+  "specialties": [
+    "Automated Security Controls",
+    "Container & CI/CD Hardening",
+    "Infrastructure as Code Security",
+    "Log Forensics & Threat Intelligence"
+  ],
+  "available": "Internship & Placement Roles (2026–2027)",
+  "portfolio": "https://nejamulhaque.vercel.app",
+  "contact": "nejamulhaque.05@gmail.com"
 }
 ```
 
-<br/>
+**What I do:**
+- 🔒 **Shift Security Left** — embed automated security controls, static analysis, and container checks directly into CI/CD pipelines.
+- 🛡️ **Build Security Tools** — GitShield (secret scanner), Sentinel Daemon (auto-firewall), Threat Intel Parser (SIEM-ready logs).
+- 🌐 **Full-Stack Foundation** — shipped 3 production SaaS apps (React, Next.js, PostgreSQL) before specializing in security.
+- 👮 **Law Enforcement Experience** — analyzed real cybercrime mechanisms under UP Police frameworks; built hardening tools from live threat findings.
 
 ---
 
 ## ⚡ Tech Arsenal
 
-<details open>
-<summary><b>🐧 Linux & Systems</b></summary><br/>
+<table>
+<tr>
+<td width="50%" valign="top">
 
+### 🐧 Systems & OS
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
+![Debian](https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
-![Shell Scripting](https://img.shields.io/badge/Shell_Scripting-89E051?style=for-the-badge&logo=gnu-bash&logoColor=black)
-</details>
+![Systemd](https://img.shields.io/badge/Systemd-000000?style=for-the-badge&logo=linux&logoColor=white)
 
-<details open>
-<summary><b>🌐 Networking</b></summary><br/>
+</td>
+<td width="50%" valign="top">
 
+### 🌐 Networking & Defense
 ![TCP/IP](https://img.shields.io/badge/TCP%2FIP-00599C?style=for-the-badge&logo=cisco&logoColor=white)
-![DNS](https://img.shields.io/badge/DNS-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white)
-![Firewalls](https://img.shields.io/badge/Firewalls-D32F2F?style=for-the-badge&logo=protonvpn&logoColor=white)
+![iptables/UFW](https://img.shields.io/badge/iptables%2FUFW-D32F2F?style=for-the-badge&logo=linux&logoColor=white)
+![Fail2ban](https://img.shields.io/badge/Fail2ban-000000?style=for-the-badge&logo=shield&logoColor=white)
 ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
-</details>
+![SSH Hardening](https://img.shields.io/badge/SSH_Hardening-000000?style=for-the-badge&logo=openssl&logoColor=white)
 
-<details open>
-<summary><b>💻 Scripting & Programming</b></summary><br/>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 
+### 💻 Programming & Scripting
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Bash Scripting](https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Shell](https://img.shields.io/badge/Shell_Scripting-89E051?style=for-the-badge&logo=gnu-bash&logoColor=black)
 ![YAML](https://img.shields.io/badge/YAML-CB171E?style=for-the-badge&logo=yaml&logoColor=white)
-</details>
 
-<details open>
-<summary><b>🔧 Version Control</b></summary><br/>
+</td>
+<td width="50%" valign="top">
 
+### 🔧 Version Control & CI/CD
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
-</details>
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
+![GitLab CI](https://img.shields.io/badge/GitLab_CI-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)
 
-<details open>
-<summary><b>🚀 CI/CD, Containers & Cloud (Learning / In Progress)</b></summary><br/>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 
+### 🚀 Cloud & Containers
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
+![Helm](https://img.shields.io/badge/Helm-0F1689?style=for-the-badge&logo=helm&logoColor=white)
 ![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
-![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=FF9900)
-</details>
 
-<details open>
-<summary><b>🛡️ Security & Monitoring (Learning / In Progress)</b></summary><br/>
+</td>
+<td width="50%" valign="top">
 
-![OWASP](https://img.shields.io/badge/OWASP-000000?style=for-the-badge&logo=owasp&logoColor=white)
-![Nmap](https://img.shields.io/badge/Nmap-4682B4?style=for-the-badge&logo=nmap&logoColor=white)
-![Vault](https://img.shields.io/badge/HashiCorp_Vault-000000?style=for-the-badge&logo=vault&logoColor=white)
+### 🛡️ DevSecOps Toolchain
+![SAST](https://img.shields.io/badge/SAST-Semgrep%2FSonarQube-FF6B6B?style=for-the-badge&logo=codesandbox&logoColor=white)
+![SCA](https://img.shields.io/badge/SCA-Snyk%2FTrivy-7B5CFA?style=for-the-badge&logo=snyk&logoColor=white)
+![DAST](https://img.shields.io/badge/DAST-OWASP_ZAP-00FF9D?style=for-the-badge&logo=owasp&logoColor=black)
+![Secrets](https://img.shields.io/badge/Secret_Scanning-GitShield-00D9FF?style=for-the-badge&logo=key&logoColor=white)
+![SIEM](https://img.shields.io/badge/SIEM-JSON_Reporting-FFA116?style=for-the-badge&logo=datadog&logoColor=white)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 📊 Monitoring & Observability
 ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
 ![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
+![ELK](https://img.shields.io/badge/ELK_Stack-005571?style=for-the-badge&logo=elasticsearch&logoColor=white)
+
+</td>
+<td width="50%" valign="top">
+
+### 🗄️ Databases & APIs
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![REST](https://img.shields.io/badge/REST_APIs-00D9FF?style=for-the-badge&logo=fastapi&logoColor=white)
+![WebSockets](https://img.shields.io/badge/WebSockets-000000?style=for-the-badge&logo=socket.io&logoColor=white)
+
+</td>
+</tr>
+</table>
+
+<details>
+<summary><b>🔒 Security Frameworks & Standards I Follow</b></summary>
+<br>
+
+![OWASP Top 10](https://img.shields.io/badge/OWASP_Top_10-000000?style=flat-square&logo=owasp&logoColor=white)
+![NIST CSF](https://img.shields.io/badge/NIST_CSF-00599C?style=flat-square&logo=nist&logoColor=white)
+![CIS Benchmarks](https://img.shields.io/badge/CIS_Benchmarks-FF6B6B?style=flat-square&logo=shield&logoColor=white)
+![MITRE ATT&CK](https://img.shields.io/badge/MITRE_ATT%26CK-D32F2F?style=flat-square&logo=target&logoColor=white)
+![Zero Trust](https://img.shields.io/badge/Zero_Trust-7B5CFA?style=flat-square&logo=lock&logoColor=white)
+![STRIDE](https://img.shields.io/badge/STRIDE_Threat_Model-00FF9D?style=flat-square&logo=eye&logoColor=black)
+
 </details>
 
-> 💡 **Note:** Badges marked *"Learning / In Progress"* reflect tools I'm actively building hands-on labs and projects around, following a solid foundation in Linux, Networking, Scripting, Git/GitHub, and Python.
+---
+
+## 🚀 Featured Security Projects
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🛡️ [GitShield](https://github.com/NejamulHaque/GitShield)
+**CLI Secret & Security Auditor**
+
+Native Git pre-commit hook that intercepts hardcoded AWS keys, RSA private keys, and API tokens before they enter version control.
+
+**Impact:** Zero dependencies · regex engine · 100% recall target on known patterns
+**Stack:** `Python` `Regex Engine` `Git Hooks`
+
+</td>
+<td width="50%" valign="top">
+
+### 🔥 [Sentinel Daemon](https://github.com/NejamulHaque/sentinel-daemon)
+**Auto-Firewall & Log Parser**
+
+systemd-managed daemon that watches auth.log and autonomously firewalls SSH brute-force attackers at the kernel level.
+
+**Impact:** 14 IPs blocked in 3 days · 1.8ms detection latency · 0 false positives
+**Stack:** `Python` `systemd` `iptables` `Regex`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 📊 [Threat Intel Parser](https://github.com/NejamulHaque/threat-log-parser)
+**SIEM-Ready Log Analyzer**
+
+Parses raw access logs for SQLi, XSS, and scanner footprints; enriches IPs against live threat feeds; exports structured JSON.
+
+**Impact:** 7 log lines parsed in 1.8s · 4 attack categories flagged
+**Stack:** `Python` `urllib` `JSON` `Regex`
+
+</td>
+<td width="50%" valign="top">
+
+### 📝 [ProResume-Builder](https://github.com/NejamulHaque/ProResume-Builder)
+**ATS-Friendly Resume SaaS**
+
+Production resume builder with authentication and database-backed user data.
+
+**Impact:** Shipped production app with full-stack ownership
+**Stack:** `Next.js` `Node.js` `PostgreSQL` `TailwindCSS`
+
+</td>
+</tr>
+</table>
+
+<details>
+<summary><b>📦 More Projects (Full-Stack & Collaboration)</b></summary>
+<br>
+
+| Project | Description | Tech Stack |
+|---------|-------------|------------|
+| [CollabSheets](https://github.com/NejamulHaque/CollabSheets) | Real-time collaborative editor with WebSockets | React, Node.js, WebSockets, PostgreSQL |
+| [Nestfy](https://github.com/NejamulHaque/Nestfy) | Smart finance tracker with automated categorization | React, Node.js, PostgreSQL |
+| [Portfolio-Builder](https://github.com/NejamulHaque/Portfolio-Builder) | Drag & drop portfolio generator | React, TailwindCSS, Supabase |
+
+</details>
+
+<p align="center">
+  <a href="https://github.com/NejamulHaque?tab=repositories"><img src="https://img.shields.io/badge/View_All_Repos-00D9FF?style=for-the-badge&logo=github&logoColor=white"/></a>
+</p>
 
 ---
 
-## 📊 Performance Metrics
-
-<div align="center">
-
-| 🏷️ Metric | 📈 Value | 🏷️ Metric | 📈 Value |
-|-----------|---------|-----------|---------|
-| 🧠 DSA / Scripting Problems | 30+ | ☕ Coffee Consumed | ∞ |
-| ⭐ GitHub Stars | 5+ | 🏆 Hackathons Won | 2+ |
-| 🔀 PRs Merged | 5+ | 📝 Articles Written | 6+ |
-
-</div>
-
----
-
-## 📈 GitHub Intelligence
-
-<div align="center">
-  <img height="195px" src="https://github-readme-stats.vercel.app/api?username=NejamulHaque&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=C9D1D9&border_radius=10"/>
-  <img height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NejamulHaque&layout=compact&langs_count=8&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=C9D1D9&border_radius=10"/>
-</div>
-
-<div align="center">
-  <img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=NejamulHaque&theme=github-dark-blue&hide_border=true&background=0D1117&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF&border_radius=10"/>
-</div>
-
-<div align="center">
-  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=NejamulHaque&theme=github-compact&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FFFFFF&hide_border=true&area=true&area_color=00D9FF"/>
-</div>
-
----
-
-## 🏆 Hall of Fame
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=NejamulHaque&theme=radical"/>
-</div>
-
----
-
-## 🔥 Practice & Labs
-
-<div align="center">
-
-[![LeetCode](https://img.shields.io/badge/LeetCode-30%2B%20Problems-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/NejamulHaque)
-[![TryHackMe](https://img.shields.io/badge/TryHackMe-Active-212C42?style=for-the-badge&logo=tryhackme&logoColor=red)](https://tryhackme.com/)
-[![Codeforces](https://img.shields.io/badge/Codeforces-Active-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/NejamulHaque)
-[![HackerRank](https://img.shields.io/badge/HackerRank-Active-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/NejamulHaque)
-
-</div>
-
----
-
-## 🧠 DevSecOps Pipeline Approach
+## 🧠 DevSecOps Pipeline Philosophy
 
 ```mermaid
-graph TD
+graph LR
     A[Developer Commit] -->|Git Push| B[GitHub Actions CI]
-    B --> C[Static Code Analysis / SAST]
-    C --> D[Dependency & Secret Scanning]
-    D --> E[Build & Containerize - Docker]
-    E --> F[Image Vulnerability Scan]
-    F --> G[Push to Registry]
-    G --> H[Deploy - Kubernetes / IaC]
-    H --> I[Runtime Monitoring - Prometheus & Grafana]
-    I --> J[Feedback Loop to Dev]
-
-    style A fill:#00D9FF,color:#000
-    style B fill:#0D1117,color:#00D9FF
-    style C fill:#0D1117,color:#00D9FF
-    style D fill:#0D1117,color:#00D9FF
+    B --> C{SAST<br/>Semgrep/SonarQube}
+    C -->|Pass| D{SCA<br/>Snyk/Trivy}
+    D -->|Pass| E{Secret Scan<br/>GitShield}
+    E -->|Pass| F[Build Docker Image]
+    F --> G{Container Scan<br/>Trivy}
+    G -->|Pass| H[Push to Registry]
+    H --> I{IaC Scan<br/>tfsec}
+    I -->|Pass| J[Deploy K8s]
+    J --> K{Runtime Monitor<br/>Prometheus/Grafana}
+    K --> L[Feedback Loop]
+    C -->|Fail| M[❌ Block & Notify]
+    D -->|Fail| M
+    E -->|Fail| M
+    G -->|Fail| M
+    I -->|Fail| M
+    style A fill:#00D9FF,stroke:#00D9FF,color:#000
+    style L fill:#00D9FF,stroke:#00D9FF,color:#000
+    style M fill:#FF6B6B,stroke:#FF6B6B,color:#000
 ```
 
----
-
-## 🚀 Featured Projects
-
-<div align="center">
-
-| 🚀 Project | 📄 Description | 🛠️ Tech Stack |
-|-----------|---------------|--------------|
-| [Sentitel-Daemon](https://github.com/NejamulHaque/sentinel-daemon) | Background Linux security daemon parsing auth logs & auto-blocking brute-force IPs via iptables | Python, Linux systemd, iptables, Regex |
-| [Threat-log-Parser](https://github.com/NejamulHaque/threat-log-parser) | ngests access logs, detects SQLi/XSS/Scanners, & enriches IPs with live Threat Intel feeds into SIEM JSON | Python, HTTPS Threat Feeds, Regex, JSON |
-| [Portfolio-Builder](https://github.com/NejamulHaque/Portfolio-Builder) | Drag & drop portfolio generator | React, TailwindCSS, Supabase |
-| [ProResume-Builder](https://github.com/NejamulHaque/ProResume-Builder) | Build ATS-friendly professional resumes in minutes — free forever | React, TailwindCSS, Supabase |
-</div>
-
-> 🛡️ **Next up:** Adding DevSecOps-focused projects — CI/CD pipelines with integrated security scanning, IaC modules, and containerized deployments — as they're completed.
-
-<div align="center">
-  <a href="https://github.com/NejamulHaque/ProResume-Builder">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=NejamulHaque&repo=ProResume-Builder&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&border_radius=10"/>
-  </a>
-</div>
-
-<div align="center">
-  <a href="https://github.com/NejamulHaque/CollabSheets">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=NejamulHaque&repo=CollabSheets&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&border_radius=10"/>
-  </a>
-  <a href="https://github.com/NejamulHaque/Nestfy">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=NejamulHaque&repo=Nestfy&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&border_radius=10"/>
-  </a>
-  <a href="https://github.com/NejamulHaque/DigitalLens">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=NejamulHaque&repo=DigitalLens&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&border_radius=10"/>
-  </a>
-  <a href="https://github.com/NejamulHaque/Portfolio-Builder">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=NejamulHaque&repo=Portfolio-Builder&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&border_radius=10"/>
-  </a>
-</div>
+**Every stage enforces a security gate — no exceptions, no manual checkpoints.**
 
 ---
 
-## 📰 Latest Blog Posts
+## 📊 GitHub Intelligence
 
-<!-- BLOG-POST-LIST:START -->
-> 🔄 *Auto-updated via GitHub Actions*
-> (https://nejamulhaque.medium.com/)
-- [Top Web Development Trends in 2025](https://dev.to/NejamulHaque)
-- [AI in Resume Building: What You Should Know](https://dev.to/NejamulHaque)
-- [Building Scalable Software for Startups](https://dev.to/NejamulHaque)
-- [Generative AI: Riding the Next Wave](https://dev.to/NejamulHaque)
-<!-- BLOG-POST-LIST:END -->
+<p align="center">
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=NejamulHaque&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=C9D1D9&border_radius=10"/>
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NejamulHaque&layout=compact&langs_count=8&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=C9D1D9&border_radius=10"/>
+</p>
+
+<p align="center">
+  <img width="70%" src="https://streak-stats.demolab.com/?user=NejamulHaque&theme=github-dark-blue&hide_border=true&background=0D1117&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF&border_radius=10"/>
+</p>
+
+<p align="center">
+  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=NejamulHaque&theme=github-compact&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FFFFFF&hide_border=true&area=true&area_color=00D9FF"/>
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=NejamulHaque&theme=radical&margin-w=15&margin-h=15"/>
+</p>
+
+---
+
+## 🎯 Practice & Continuous Learning
+
+<p align="center">
+  <a href="https://leetcode.com/NejamulHaque"><img src="https://img.shields.io/badge/LeetCode-30%2B_Problems-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/></a>
+  <a href="https://tryhackme.com/p/NejamulHaque"><img src="https://img.shields.io/badge/TryHackMe-Active-212C42?style=for-the-badge&logo=tryhackme&logoColor=red"/></a>
+  <a href="https://www.hackerrank.com/NejamulHaque"><img src="https://img.shields.io/badge/HackerRank-Active-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white"/></a>
+</p>
+
+**Certification Roadmap:**
+- ✅ **In Progress:** AWS Cloud Practitioner · CompTIA Security+
+- 🎯 **Next (6–12 months):** AWS Security Specialty · CKS (Certified Kubernetes Security Specialist)
+- 📚 **Future:** OSCP · LFCS (Linux Foundation Certified SysAdmin)
+
+---
+
+## 📰 Latest Write-ups
+
+- [Building Your First AI-Powered Web App: A Step-by-Step Guide](https://nejamulhaque.medium.com/building-your-first-ai-powered-web-app-a-step-by-step-guide-0048e5c8cbe0)
+- [Shifting Left: Catching Hardcoded Secrets Before They Hit Git History](https://github.com/NejamulHaque/GitShield)
+- [From Access Logs to SIEM-Ready JSON: A Threat Intelligence Pipeline](https://github.com/NejamulHaque/threat-log-parser)
+
+<p align="center">
+  <a href="https://nejamulhaque.medium.com/"><img src="https://img.shields.io/badge/Read_More_on_Medium-000000?style=for-the-badge&logo=medium&logoColor=white"/></a>
+</p>
+
+---
+
+## 🐍 Contribution Activity
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/NejamulHaque/NejamulHaque/output/github-contribution-grid-snake-dark.svg"/>
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/NejamulHaque/NejamulHaque/output/github-contribution-grid-snake.svg"/>
+    <img alt="Contribution snake" src="https://raw.githubusercontent.com/NejamulHaque/NejamulHaque/output/github-contribution-grid-snake-dark.svg"/>
+  </picture>
+</p>
 
 ---
 
 ## 🌐 Connect & Collaborate
 
-<div align="center">
+<p align="center">
+  <a href="https://linkedin.com/in/NejamulHaque"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://x.com/Nejamul_Haque_"><img src="https://img.shields.io/badge/Twitter-Follow-000000?style=for-the-badge&logo=x&logoColor=white"/></a>
+  <a href="https://nejamulhaque.vercel.app"><img src="https://img.shields.io/badge/Portfolio-Visit-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white"/></a>
+  <a href="https://nejamulhaque.medium.com/"><img src="https://img.shields.io/badge/Medium-Read-000000?style=for-the-badge&logo=medium&logoColor=white"/></a>
+  <a href="mailto:nejamulhaque.05@gmail.com"><img src="https://img.shields.io/badge/Gmail-Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+</p>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/NejamulHaque)
-[![Twitter/X](https://img.shields.io/badge/Twitter-Follow-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/Nejamul_Haque_)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://nejamulhaque.vercel.app)
-[![Dev.to](https://img.shields.io/badge/Dev.to-Read-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white)](https://dev.to/NejamulHaque)
-[![Gmail](https://img.shields.io/badge/Gmail-Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nejamulhaque.05@gmail.com)
-[![Resume](https://img.shields.io/badge/Resume-Download-00D9FF?style=for-the-badge&logo=adobe-acrobat-reader&logoColor=white)](https://nejamulhaque.vercel.app)
-
-</div>
-
----
-
-## 🐍 Contribution Map
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/NejamulHaque/NejamulHaque/output/github-contribution-grid-snake-dark.svg"/>
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/NejamulHaque/NejamulHaque/output/github-contribution-grid-snake.svg"/>
-    <img alt="Snake animation" src="https://raw.githubusercontent.com/NejamulHaque/NejamulHaque/output/github-contribution-grid-snake-dark.svg"/>
-  </picture>
-</div>
+### ☕ Support My Work
+- **UPI (India):** `nejamulhaque@upi`
+- **Buy Me a Coffee:** [buymeacoffee.com/nejamulhaque](https://www.buymeacoffee.com/nejamulhaque)
 
 ---
-
-## ☕ Support My Work
-
-If my open-source tools or write-ups have helped you, consider buying me a coffee!
-
-UPI (India): nejamulhaque@upi
-- [Buy Me A Coffee:](https://buymeacoffee.com/nejamulhaque)
 
 ## 💬 Dev Wisdom
 
-<div align="center">
+<p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark"/>
-</div>
+</p>
 
 ---
 
-<!-- Footer -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00D9FF,100:0D1117&height=120&section=footer&text=Let's+Build+Secure%2C+Automated+Systems!&fontSize=24&fontColor=ffffff&animation=twinkling&fontAlignY=70"/>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00D9FF,100:0D1117&height=120&section=footer&text=Let's+Build+Secure%2C+Automated+Systems!&fontSize=22&fontColor=ffffff&animation=twinkling&fontAlignY=65"/>
+</p>
 
 <p align="center">
-<b>⭐ Star my repos if you find them helpful!</b><br/>
-<sub>🤝 Open to DevSecOps internships, entry-level roles & collaborations</sub><br/>
-<sub>Made with 💙 and a commitment to shifting security left</sub>
+  <b>⭐ Star my repos if you find them helpful!</b><br/>
+  <sub>🤝 Open to DevSecOps internships, entry-level roles & collaborations</sub><br/>
+  <sub>Made with 💙 and a commitment to shifting security left</sub>
 </p>
