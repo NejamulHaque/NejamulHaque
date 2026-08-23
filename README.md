@@ -35,7 +35,7 @@ education: B.Tech Computer Science (2023–2027)
 current_role: Cyber Security Intern @ UP Police (APCSIP-2026)
 philosophy: Security is an infrastructure boundary, not a late-stage patch
 seeking: Internship & Placement Roles (2026–2027)
-portfolio: nejumulhaque.vercel.app
+portfolio: nejamulhaque.vercel.app
 email: nejamulhaque.05@gmail.com
 ```
 
