@@ -7,7 +7,7 @@
 
 <!-- BADGES & PORTFOLIO LINKS -->
 <p>
-  <a href="https://nejamulhaque.vercel.app/"><img src="https://img.shields.io/badge/🛡️_DevSecOps_Portfolio-00E5FF?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0D1117"/></a>
+  <a href="https://nejamulhaque.vercel.app/"><img src="https://img.shields.io/badge/🛡️Portfolio-00E5FF?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0D1117"/></a>
   <a href="https://haqueandsons.vercel.app/"><img src="https://img.shields.io/badge/💼_Haque_And_Sons_Agency-7B5CFA?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0D1117"/></a>
 </p>
 
@@ -33,7 +33,7 @@
 
 > *"I don't just write code, I secure the infrastructure it runs on."*
 
-I'm **Nejamul Haque** — a DevSecOps & Cloud Security Engineer embedding automated security controls, container checks, and static analysis directly into CI/CD pipelines. Security is an infrastructure boundary, not a late-stage patch.
+I'm **Nejamul Haque** — a Aspiring DevSecOps & Cloud Security Engineer embedding automated security controls, container checks, and static analysis directly into CI/CD pipelines. Security is an infrastructure boundary, not a late-stage patch.
 
 *   🌐 **My Portfolios:**
     *   **DevSecOps & Security Engineering:** [nejamulhaque.vercel.app](https://nejamulhaque.vercel.app/)
