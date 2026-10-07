@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- HEADER BANNER -->
-<img src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:0D1117,100:161B22&text=Nejamul%20Haque&fontSize=65&fontColor=00E5FF&animation=fadeIn&desc=Aspiring%DevSecOps%20Engineer%20•%20Cloud%20Security%20•%20Shift%20Left%20Philosophy&descSize=18&descAlignY=72&descColor=8B949E" width="100%" alt="Header Banner"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:0D1117,100:161B22&text=Nejamul%20Haque&fontSize=65&fontColor=00E5FF&animation=fadeIn&desc=Aspiring%20.%20DevSecOps%20Engineer%20•%20Cloud%20Security%20•%20Shift%20Left%20Philosophy&descSize=18&descAlignY=72&descColor=8B949E" width="100%" alt="Header Banner"/>
 
 <br>
 
