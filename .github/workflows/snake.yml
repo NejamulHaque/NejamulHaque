@@ -32,7 +32,12 @@ jobs:
         with:
           USERNAME: ${{ github.repository_owner }}
           THEME: tokyonight
-          OUTPUT_DIR: dist/cards
+          AUTO_PUSH: false
+
+      - name: Move Summary Cards into dist/cards
+        run: |
+          mkdir -p dist/cards
+          cp -r profile-summary-card-output/tokyonight/*.svg dist/cards/
 
       - name: Push All SVGs to output Branch
         uses: crazy-max/ghaction-github-pages@v4
