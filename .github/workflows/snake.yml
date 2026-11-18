@@ -1,14 +1,9 @@
-name: Generate Contribution Snake
+name: Update Profile SVGs (Snake & Stats)
 
 on:
-  # Run automatically every 12 hours
   schedule:
     - cron: "0 */12 * * *"
-
-  # Allow manual trigger from the Actions tab
   workflow_dispatch:
-
-  # Run on every push to main
   push:
     branches:
       - main
@@ -17,12 +12,12 @@ permissions:
   contents: write
 
 jobs:
-  generate:
+  generate-svgs:
     runs-on: ubuntu-latest
     timeout-minutes: 10
 
     steps:
-      - name: Generate github-contribution-grid-snake.svg
+      - name: Generate Contribution Snake SVG
         uses: platane/snk@v3
         with:
           github_user_name: ${{ github.repository_owner }}
@@ -30,7 +25,16 @@ jobs:
             dist/github-contribution-grid-snake.svg
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
 
-      - name: Push github-contribution-grid-snake.svg to the output branch
+      - name: Generate GitHub Stats & Languages SVGs
+        uses: vn7n24fzkq/github-profile-summary-cards@release
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        with:
+          USERNAME: ${{ github.repository_owner }}
+          THEME: tokyonight
+          OUTPUT_DIR: dist/cards
+
+      - name: Push All SVGs to output Branch
         uses: crazy-max/ghaction-github-pages@v4
         with:
           target_branch: output
