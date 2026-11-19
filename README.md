@@ -204,16 +204,6 @@ graph LR
   <img height="175" src="https://raw.githubusercontent.com/NejamulHaque/NejamulHaque/output/cards/2-most-commit-language.svg" alt="Most Commit Language"/>
 </p>
 
-<!-- STREAK -->
-<p align="center">
-  <img width="72%" src="https://github-readme-streak-stats.herokuapp.com/?user=NejamulHaque&theme=dark&hide_border=true&background=0D1117&stroke=1a2238&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF&sideLabels=e8eeff&dates=8291b8&sideNums=00D9FF&currStreakNum=00D9FF" alt="GitHub Streak"/>
-</p>
-
-<!-- ACTIVITY GRAPH -->
-<p align="center">
-  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=NejamulHaque&theme=github-compact&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FFFFFF&hide_border=true&area=true&area_color=00D9FF" alt="Activity Graph"/>
-</p>
-
 <!-- CONTRIBUTION SNAKE -->
 <p align="center">
   <picture>
