@@ -225,12 +225,13 @@ graph LR
 
 ---
 
-### 🎯 Certifications & Engineering Roadmap
+### 🎯 Certifications, Courses & Engineering Roadmap
 
-| Status | Milestone / Certification | Focus Area |
+| Status | Credential / Milestone | Focus Area |
 | :--- | :--- | :--- |
+| ✅ **Completed** | **AWS Cloud & Virtualization Foundations (5 Verified Badges)** | AWS Core Services, Cloud Security & Cost Management, Containerization & Virtualization |
 | ✅ **Completed** | **Amroha Police Cyber Security Internship (APCSIP-2026)** | Network Forensics, Threat Analysis & System Defense |
-| 🔄 **In Progress** | **AWS Certified Cloud Practitioner · HashiCorp Terraform Associate** | AWS Core Architecture, IAM, VPC & Infrastructure as Code |
+| 🔄 **In Progress** | **AWS Certified Cloud Practitioner · HashiCorp Terraform Associate** | AWS Architecture, IAM, VPC & Infrastructure as Code |
 | 🎯 **Next Target** | **CKAD (Certified Kubernetes Application Developer) · RHCSA** | Container Orchestration, Cluster Operations & Linux Admin |
 
 ---
