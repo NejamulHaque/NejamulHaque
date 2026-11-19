@@ -39,7 +39,7 @@ I'm **Nejamul Haque** — a 4th-year B.Tech Computer Science & Engineering stude
   * **Cloud & DevOps Portfolio:** [nejamulhaque.vercel.app](https://nejamulhaque.vercel.app/)
   * **Haque & Sons (Tech & Student Portal):** [haqueandsons.vercel.app](https://haqueandsons.vercel.app/)
 * ⚙️ **Infrastructure & CI/CD Automation:** Automated Terraform validation, container builds, secret scanning, and deployment pipelines via GitHub Actions.
-* 🛠️ **Systems & Tooling Builder:** Creator of *terraform-aws-infra*, *Sentinel Daemon*, *GitShield*, *Irus AI*, and *infra-monitor*.
+* 🛠️ **Systems & Tooling Builder:** Creator of *terraform-aws-infra*, *k8s-mongodb-deployment*, *Sentinel Daemon*, *GitShield*, *Irus AI*, and *infra-monitor*.
 * 👮 **Industry & Field Experience:** Cyber Security Intern @ Amroha Police, UP Police (APCSIP-2026).
 
 ---
@@ -126,6 +126,11 @@ I'm **Nejamul Haque** — a 4th-year B.Tech Computer Science & Engineering stude
     <td>Provisions AWS VPC, Subnets, Security Groups, EC2, and SSE-S3 encrypted static hosting via modular HCL with automated <code>terraform fmt/validate</code> and Trivy policy checks in CI.</td>
   </tr>
   <tr>
+    <td><a href="https://github.com/NejamulHaque/k8s-mongodb-deployment"><b>k8s-mongodb-deployment</b></a><br><sub>Multi-Tier Kubernetes Stack</sub></td>
+    <td><code>Kubernetes</code> <code>MongoDB</code> <code>YAML</code></td>
+    <td>Orchestrates a persistent MongoDB StatefulSet/Deployment alongside a Mongo Express admin UI using Kubernetes native Secrets, ConfigMaps, and PersistentVolumeClaims.</td>
+  </tr>
+  <tr>
     <td><a href="https://github.com/NejamulHaque/Irus-AI"><b>Irus AI</b></a><br><sub>Containerized AI Assistant</sub></td>
     <td><code>Python</code> <code>Flask</code> <code>PostgreSQL</code> <code>Docker</code></td>
     <td>Multi-modal AI assistant (Chat, Search, Doc QA, Memory) deployed via an automated CI/CD pipeline (<code>Gitleaks → Bandit → Trivy → Pytest</code>).</td>
@@ -140,20 +145,16 @@ I'm **Nejamul Haque** — a 4th-year B.Tech Computer Science & Engineering stude
     <td><code>Python</code> <code>Regex</code> <code>Git Hooks</code></td>
     <td>Zero-dependency Git pre-commit hook preventing AWS credentials, PEM private keys, and unsafe permissions (<code>chmod 777</code>) from entering version control.</td>
   </tr>
-  <tr>
-    <td><a href="https://github.com/NejamulHaque/threat-log-parser"><b>Threat Intel Parser</b></a><br><sub>Log Analysis & Enrichment CLI</sub></td>
-    <td><code>Python</code> <code>REST APIs</code> <code>JSON</code></td>
-    <td>Parses web access logs for SQLi/XSS anomalies, enriches flagged IPs against live HTTPS threat feeds, and exports structured JSON telemetry reports.</td>
-  </tr>
 </table>
 
 <details>
-<summary><b>📦 More Projects (Infrastructure Monitoring & Full-Stack Applications)</b></summary>
+<summary><b>📦 More Projects (Observability, Log Analysis & Full-Stack Applications)</b></summary>
 <br>
 
 | Project | Description | Tech Stack |
 | :--- | :--- | :--- |
-| [infra-monitor](https://github.com/NejamulHaque/infra-monitor) | Automated Linux system health telemetry, disk/memory alerting, and cron diagnostics | Python, Bash, Linux, Cron |
+| [infra-monitor](https://github.com/NejamulHaque/infra-monitor) | Automated Linux SRE telemetry auditing HTTP latency, disk utilization, and service health | Python, Bash, Linux, Cron |
+| [threat-log-parser](https://github.com/NejamulHaque/threat-log-parser) | Parses web access logs for SQLi/XSS anomalies and enriches flagged IPs via threat feeds | Python, REST APIs, JSON |
 | [CollabSheets](https://github.com/NejamulHaque/CollabSheets) | Real-time collaborative spreadsheet web app powered by WebSockets | React, Node.js, WebSockets, PostgreSQL |
 | [ProResume-Builder](https://github.com/NejamulHaque/ProResume-Builder) | ATS-friendly resume builder SaaS with authentication and database persistence | Next.js, Node.js, PostgreSQL |
 | [Nestfy](https://github.com/NejamulHaque/Nestfy) | Smart personal finance tracker with automated expense categorization | React, Node.js, PostgreSQL |
