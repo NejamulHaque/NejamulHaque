@@ -1,11 +1,9 @@
 <div align="center">
 
-<!-- HEADER BANNER -->
-<img src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:0D1117,100:161B22&text=Nejamul%20Haque&fontSize=65&fontColor=00E5FF&animation=fadeIn&desc=Cloud%20%26%20Junior%20DevOps%20Engineer%20%E2%80%A2%20Infrastructure%20as%20Code%20%E2%80%A2%20Linux%20%26%20Automation&descSize=18&descAlignY=72&descColor=8B949E" width="100%" alt="Header Banner"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=240&color=0:0D1117,100:161B22&text=Nejamul%20Haque&fontSize=60&fontColor=00E5FF&desc=Cloud%20%26%20Junior%20DevOps%20Engineer&descSize=20&descAlignY=70&descColor=8B949E" width="100%" alt="Header Banner"/>
 
 <br>
 
-<!-- BADGES & PORTFOLIO LINKS -->
 <p>
   <a href="https://nejamulhaque.vercel.app/"><img src="https://img.shields.io/badge/☁️_Cloud_&_DevOps_Portfolio-00E5FF?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0D1117" alt="Cloud and DevOps Portfolio"/></a>
   <a href="https://haqueandsons.vercel.app/"><img src="https://img.shields.io/badge/💼_Haque_And_Sons-7B5CFA?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0D1117" alt="Haque And Sons"/></a>
@@ -20,7 +18,6 @@
 
 <br>
 
-<!-- TYPING SVG -->
 <p>
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&duration=3500&pause=600&color=00E5FF&center=true&vCenter=true&width=820&lines=const+engineer+%3D+new+CloudDevOps()%3B;engineer.stack+%3D+'AWS+%2B+Terraform+%2B+Kubernetes+%2B+Linux'%3B;engineer.workflow+%3D+'Automate+Everything+via+CI%2FCD'%3B;while(true)+%7B+provision()%3B+deploy()%3B+monitor()%3B+%7D" alt="Typing SVG" />
 </p>
@@ -194,7 +191,6 @@ graph LR
 
 ### 📊 GitHub Telemetry & Contributions
 
-<!-- STATS & TOP LANGUAGES (Self-hosted on output branch via GitHub Actions) -->
 <p align="center">
   <img height="175" src="https://raw.githubusercontent.com/NejamulHaque/NejamulHaque/output/cards/0-profile-details.svg" alt="Profile Details"/>
   <img height="175" src="https://raw.githubusercontent.com/NejamulHaque/NejamulHaque/output/cards/3-stats.svg" alt="GitHub Stats"/>
@@ -204,7 +200,6 @@ graph LR
   <img height="175" src="https://raw.githubusercontent.com/NejamulHaque/NejamulHaque/output/cards/2-most-commit-language.svg" alt="Most Commit Language"/>
 </p>
 
-<!-- CONTRIBUTION SNAKE -->
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/NejamulHaque/NejamulHaque/output/github-contribution-grid-snake-dark.svg"/>
