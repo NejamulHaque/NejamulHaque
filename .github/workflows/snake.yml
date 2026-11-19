@@ -17,6 +17,9 @@ jobs:
     timeout-minutes: 10
 
     steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v4
+
       - name: Generate GitHub Stats & Languages SVGs
         uses: vn7n24fzkq/github-profile-summary-cards@release
         env:
