@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=240&color=0:0D1117,100:161B22&text=Nejamul%20Haque&fontSize=60&fontColor=00E5FF&desc=Cloud%20%26%20Junior%20DevOps%20Engineer&descSize=20&descAlignY=70&descColor=8B949E" width="100%" alt="Header Banner"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:0D1117,100:161B22&text=Nejamul%20Haque&fontSize=62&fontColor=00E5FF&animation=fadeIn&desc=Cloud%20%2B%20Junior%20DevOps%20Engineer%20%E2%80%A2%20Infrastructure%20as%20Code%20%E2%80%A2%20Linux%20Automation&descSize=18&descAlignY=72&descColor=8B949E" width="100%" alt="Header Banner"/>
 
 <br>
 
