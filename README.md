@@ -1,46 +1,46 @@
 <div align="center">
 
 <!-- HEADER BANNER -->
-<img src="[https://capsule-render.vercel.app/api?type=waving&height=280&color=0:0D1117,100:161B22&text=Nejamul%20Haque&fontSize=65&fontColor=00E5FF&animation=fadeIn&desc=DevSecOps%20%26%20Cloud%20Security%20Engineer%20%E2%80%A2%20Infrastructure%20as%20Code%20%E2%80%A2%20Shift%20Left&descSize=18&descAlignY=72&descColor=8B949E](https://capsule-render.vercel.app/api?type=waving&height=280&color=0:0D1117,100:161B22&text=Nejamul%20Haque&fontSize=65&fontColor=00E5FF&animation=fadeIn&desc=DevSecOps%20%26%20Cloud%20Security%20Engineer%20%E2%80%A2%20Infrastructure%20as%20Code%20%E2%80%A2%20Shift%20Left&descSize=18&descAlignY=72&descColor=8B949E)" width="100%" alt="Header Banner"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:0D1117,100:161B22&text=Nejamul%20Haque&fontSize=65&fontColor=00E5FF&animation=fadeIn&desc=Cloud%20%26%20Junior%20DevOps%20Engineer%20%E2%80%A2%20Infrastructure%20as%20Code%20%E2%80%A2%20Linux%20%26%20Automation&descSize=18&descAlignY=72&descColor=8B949E" width="100%" alt="Header Banner"/>
 
 <br>
 
 <!-- BADGES & PORTFOLIO LINKS -->
 <p>
-  <a href="[https://nejamulhaque.vercel.app/](https://nejamulhaque.vercel.app/)"><img src="[https://img.shields.io/badge/](https://img.shields.io/badge/)🛡️_DevSecOps_Portfolio-00E5FF?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0D1117" alt="DevSecOps Portfolio"/></a>
-  <a href="[https://haqueandsons.vercel.app/](https://haqueandsons.vercel.app/)"><img src="[https://img.shields.io/badge/](https://img.shields.io/badge/)💼_Haque_And_Sons-7B5CFA?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0D1117" alt="Haque And Sons"/></a>
+  <a href="https://nejamulhaque.vercel.app/"><img src="https://img.shields.io/badge/☁️_Cloud_&_DevOps_Portfolio-00E5FF?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0D1117" alt="Cloud and DevOps Portfolio"/></a>
+  <a href="https://haqueandsons.vercel.app/"><img src="https://img.shields.io/badge/💼_Haque_And_Sons-7B5CFA?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0D1117" alt="Haque And Sons"/></a>
 </p>
 
 <p>
-  <a href="[https://github.com/NejamulHaque](https://github.com/NejamulHaque)"><img src="[https://komarev.com/ghpvc/?username=NejamulHaque&style=flat-square&color=00D9FF&label=Profile+Views](https://komarev.com/ghpvc/?username=NejamulHaque&style=flat-square&color=00D9FF&label=Profile+Views)" alt="Profile Views"/></a>
-  <a href="[https://github.com/NejamulHaque?tab=followers](https://github.com/NejamulHaque?tab=followers)"><img src="[https://img.shields.io/github/followers/NejamulHaque?style=flat-square&color=00D9FF&label=Followers](https://img.shields.io/github/followers/NejamulHaque?style=flat-square&color=00D9FF&label=Followers)" alt="Followers"/></a>
-  <img src="[https://img.shields.io/badge/Status-Open%20to%20Work%20(2027%20Grad)-00FF9D?style=flat-square](https://img.shields.io/badge/Status-Open%20to%20Work%20(2027%20Grad)-00FF9D?style=flat-square)" alt="Status"/>
-  <img src="[https://img.shields.io/badge/Focus-DevSecOps%20%7C%20SRE%20%7C%20Cloud-7B5CFA?style=flat-square](https://img.shields.io/badge/Focus-DevSecOps%20%7C%20SRE%20%7C%20Cloud-7B5CFA?style=flat-square)" alt="Focus"/>
+  <a href="https://github.com/NejamulHaque"><img src="https://komarev.com/ghpvc/?username=NejamulHaque&style=flat-square&color=00D9FF&label=Profile+Views" alt="Profile Views"/></a>
+  <a href="https://github.com/NejamulHaque?tab=followers"><img src="https://img.shields.io/github/followers/NejamulHaque?style=flat-square&color=00D9FF&label=Followers" alt="Followers"/></a>
+  <img src="https://img.shields.io/badge/Status-Open%20to%20Internships%20%26%20Full--Time%20('27)-00FF9D?style=flat-square" alt="Status"/>
+  <img src="https://img.shields.io/badge/Focus-Cloud%20%7C%20DevOps%20%7C%20SRE-7B5CFA?style=flat-square" alt="Focus"/>
 </p>
 
 <br>
 
 <!-- TYPING SVG -->
 <p>
-  <img src="[https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&duration=3500&pause=600&color=00E5FF&center=true&vCenter=true&width=820&lines=const+engineer+%3D+new+DevSecOps()%3B;engineer.priority+%3D+'Shift+Security+Left'%3B;engineer.iac+%3D+'Terraform+%2B+Trivy+%2B+AWS'%3B;while(true)+%7B+harden()%3B+automate()%3B+monitor()%3B+%7D](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&duration=3500&pause=600&color=00E5FF&center=true&vCenter=true&width=820&lines=const+engineer+%3D+new+DevSecOps()%3B;engineer.priority+%3D+'Shift+Security+Left'%3B;engineer.iac+%3D+'Terraform+%2B+Trivy+%2B+AWS'%3B;while(true)+%7B+harden()%3B+automate()%3B+monitor()%3B+%7D)" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&duration=3500&pause=600&color=00E5FF&center=true&vCenter=true&width=820&lines=const+engineer+%3D+new+CloudDevOps()%3B;engineer.stack+%3D+'AWS+%2B+Terraform+%2B+Kubernetes+%2B+Linux'%3B;engineer.workflow+%3D+'Automate+Everything+via+CI%2FCD'%3B;while(true)+%7B+provision()%3B+deploy()%3B+monitor()%3B+%7D" alt="Typing SVG" />
 </p>
 
 </div>
 
 ---
 
-### 🛡️ About Me
+### 👨‍💻 About Me
 
-> *"I don't just write code — I harden and automate the infrastructure it runs on."*
+> *"I don't just write code — I provision, automate, and harden the cloud infrastructure it runs on."*
 
-I'm **Nejamul Haque** — a B.Tech CSE ('27) **DevSecOps & Cloud Security Engineer** embedding automated security gates, Infrastructure as Code (IaC) policy checks, and container vulnerability scanning directly into CI/CD pipelines. Security is an architectural boundary, not a late-stage patch.
+I'm **Nejamul Haque** — a 4th-year B.Tech Computer Science & Engineering student (Class of 2027) focused on **Cloud Engineering, DevOps Automation, and Linux Infrastructure**. I build reproducible cloud environments with Infrastructure as Code (IaC), containerized workloads, and automated CI/CD pipelines with built-in security and quality checks.
 
 * 🌐 **Live Portals:**
-  * **DevSecOps & Cloud Portfolio:** [nejamulhaque.vercel.app](https://nejamulhaque.vercel.app/)
+  * **Cloud & DevOps Portfolio:** [nejamulhaque.vercel.app](https://nejamulhaque.vercel.app/)
   * **Haque & Sons (Tech & Student Portal):** [haqueandsons.vercel.app](https://haqueandsons.vercel.app/)
-* 🔒 **Shift Security Left:** Automated SAST, SCA, Secret Detection, and Terraform IaC scanning via GitHub Actions.
-* 🛠️ **Security Tooling Builder:** Creator of *GitShield*, *Sentinel Daemon*, *Irus AI*, *Threat Intel Parser*, and *infra-monitor*.
-* 👮 **Cyber Security Experience:** Cyber Security Intern @ Amroha Police, UP Police (APCSIP-2026).
+* ⚙️ **Infrastructure & CI/CD Automation:** Automated Terraform validation, container builds, secret scanning, and deployment pipelines via GitHub Actions.
+* 🛠️ **Systems & Tooling Builder:** Creator of *terraform-aws-infra*, *Sentinel Daemon*, *GitShield*, *Irus AI*, and *infra-monitor*.
+* 👮 **Industry & Field Experience:** Cyber Security Intern @ Amroha Police, UP Police (APCSIP-2026).
 
 ---
 
@@ -59,7 +59,7 @@ I'm **Nejamul Haque** — a B.Tech CSE ('27) **DevSecOps & Cloud Security Engine
       </p>
     </td>
     <td align="center" width="50%">
-      <h3>🌐 Networking & Defense</h3>
+      <h3>🌐 Networking & Hardening</h3>
       <p>
         <img src="https://img.shields.io/badge/TCP%2FIP-00599C?style=for-the-badge&logo=cisco&logoColor=white" alt="TCP/IP"/>
         <img src="https://img.shields.io/badge/iptables%2FUFW-D32F2F?style=for-the-badge&logo=linux&logoColor=white" alt="iptables"/>
@@ -99,11 +99,11 @@ I'm **Nejamul Haque** — a B.Tech CSE ('27) **DevSecOps & Cloud Security Engine
       </p>
     </td>
     <td align="center" width="50%">
-      <h3>🛡️ DevSecOps & Observability</h3>
+      <h3>🛡️ Automation, Scanning & Monitoring</h3>
       <p>
-        <img src="https://img.shields.io/badge/IaC%20%26%20SCA-Trivy%20%7C%20Snyk-7B5CFA?style=for-the-badge&logo=snyk&logoColor=white" alt="Trivy and Snyk"/>
-        <img src="https://img.shields.io/badge/SAST-Semgrep%20%7C%20Bandit-FF6B6B?style=for-the-badge&logo=sonarqube&logoColor=white" alt="SAST"/>
-        <img src="https://img.shields.io/badge/DAST-OWASP_ZAP-00FF9D?style=for-the-badge&logo=owasp&logoColor=black" alt="DAST"/>
+        <img src="https://img.shields.io/badge/IaC%20%26%20Image%20Scan-Trivy-7B5CFA?style=for-the-badge&logo=snyk&logoColor=white" alt="Trivy"/>
+        <img src="https://img.shields.io/badge/Code%20Quality-Semgrep%20%7C%20Bandit-FF6B6B?style=for-the-badge&logo=sonarqube&logoColor=white" alt="Code Quality"/>
+        <img src="https://img.shields.io/badge/Observability-Prometheus%20%7C%20Grafana-E6522C?style=for-the-badge&logo=prometheus&logoColor=white" alt="Prometheus and Grafana"/>
         <img src="https://img.shields.io/badge/Secrets-GitShield-00D9FF?style=for-the-badge&logo=vault&logoColor=white" alt="Secrets"/>
       </p>
     </td>
@@ -112,72 +112,72 @@ I'm **Nejamul Haque** — a B.Tech CSE ('27) **DevSecOps & Cloud Security Engine
 
 ---
 
-### 🚀 Featured DevSecOps & Infrastructure Projects
+### 🚀 Featured Cloud, DevOps & Systems Projects
 
 <table align="center" width="100%">
   <tr>
     <th width="30%">Project</th>
     <th width="28%">Tech Stack</th>
-    <th width="42%">Architecture & Security Impact</th>
+    <th width="42%">Architecture & Engineering Impact</th>
   </tr>
   <tr>
-    <td><a href="https://github.com/NejamulHaque/terraform-aws-infra"><b>terraform-aws-infra</b></a><br><sub>Zero-Spend AWS Cloud IaC</sub></td>
+    <td><a href="https://github.com/NejamulHaque/terraform-aws-infra"><b>terraform-aws-infra</b></a><br><sub>Modular AWS Cloud IaC</sub></td>
     <td><code>Terraform</code> <code>AWS</code> <code>Trivy</code> <code>Actions</code></td>
-    <td>Provisions AWS VPC, Subnets, Security Groups, EC2, and SSE-S3 encrypted static hosting via modular HCL with automated <code>terraform fmt/validate</code> and Trivy IaC policy gates in CI.</td>
+    <td>Provisions AWS VPC, Subnets, Security Groups, EC2, and SSE-S3 encrypted static hosting via modular HCL with automated <code>terraform fmt/validate</code> and Trivy policy checks in CI.</td>
   </tr>
   <tr>
-    <td><a href="https://github.com/NejamulHaque/Irus-AI"><b>Irus AI</b></a><br><sub>Personal AI Command Center</sub></td>
+    <td><a href="https://github.com/NejamulHaque/Irus-AI"><b>Irus AI</b></a><br><sub>Containerized AI Assistant</sub></td>
     <td><code>Python</code> <code>Flask</code> <code>PostgreSQL</code> <code>Docker</code></td>
-    <td>Multi-modal AI assistant (Chat, Search, Doc QA, Memory) backed by a hardened Shift-Left CI pipeline (<code>Gitleaks → Bandit → Trivy → Pytest</code>).</td>
+    <td>Multi-modal AI assistant (Chat, Search, Doc QA, Memory) deployed via an automated CI/CD pipeline (<code>Gitleaks → Bandit → Trivy → Pytest</code>).</td>
   </tr>
   <tr>
-    <td><a href="https://github.com/NejamulHaque/sentinel-daemon"><b>Sentinel Daemon</b></a><br><sub>Autonomous Kernel IPS</sub></td>
+    <td><a href="https://github.com/NejamulHaque/sentinel-daemon"><b>Sentinel Daemon</b></a><br><sub>Linux Firewall Automation</sub></td>
     <td><code>Python</code> <code>systemd</code> <code>iptables</code> <code>Linux</code></td>
-    <td>Real-time SSH brute-force detection daemon enforcing kernel-level <code>iptables</code> drops. Blocked <b>14 malicious IPs</b> in 72 hours at <b>1.8ms</b> latency with <b>0</b> false positives.</td>
+    <td>Background Linux daemon parsing SSH logs in real time to enforce kernel-level <code>iptables</code> blocks. Mitigated <b>14 brute-force IPs</b> in 72 hours at <b>1.8ms</b> latency with <b>0</b> false positives.</td>
   </tr>
   <tr>
     <td><a href="https://github.com/NejamulHaque/GitShield"><b>GitShield</b></a><br><sub>Pre-Commit Secret Auditor</sub></td>
     <td><code>Python</code> <code>Regex</code> <code>Git Hooks</code></td>
-    <td>Zero-dependency pre-commit security hook blocking AWS IAM credentials, PEM private keys, and insecure file permissions (<code>chmod 777</code>) before entering Git history.</td>
+    <td>Zero-dependency Git pre-commit hook preventing AWS credentials, PEM private keys, and unsafe permissions (<code>chmod 777</code>) from entering version control.</td>
   </tr>
   <tr>
-    <td><a href="https://github.com/NejamulHaque/threat-log-parser"><b>Threat Intel Parser</b></a><br><sub>SIEM-Ready Log Analyzer</sub></td>
-    <td><code>Python</code> <code>Threat Feeds</code> <code>JSON</code></td>
-    <td>Detects SQLi/XSS attack signatures in web logs, enriches offending IPs via live HTTPS threat intelligence feeds, and exports structured SIEM JSON reports.</td>
+    <td><a href="https://github.com/NejamulHaque/threat-log-parser"><b>Threat Intel Parser</b></a><br><sub>Log Analysis & Enrichment CLI</sub></td>
+    <td><code>Python</code> <code>REST APIs</code> <code>JSON</code></td>
+    <td>Parses web access logs for SQLi/XSS anomalies, enriches flagged IPs against live HTTPS threat feeds, and exports structured JSON telemetry reports.</td>
   </tr>
 </table>
 
 <details>
-<summary><b>📦 More Projects (Infrastructure Monitoring & Full-Stack SaaS)</b></summary>
+<summary><b>📦 More Projects (Infrastructure Monitoring & Full-Stack Applications)</b></summary>
 <br>
 
 | Project | Description | Tech Stack |
 | :--- | :--- | :--- |
-| [infra-monitor](https://github.com/NejamulHaque/infra-monitor) | Automated Linux system health telemetry, disk/memory threshold alerting, and cron diagnostics | Python, Bash, Linux, Cron |
-| [CollabSheets](https://github.com/NejamulHaque/CollabSheets) | Real-time collaborative spreadsheet editor powered by WebSockets | React, Node.js, WebSockets, PostgreSQL |
-| [ProResume-Builder](https://github.com/NejamulHaque/ProResume-Builder) | ATS-optimized resume builder SaaS with authentication and persistent storage | Next.js, Node.js, PostgreSQL |
+| [infra-monitor](https://github.com/NejamulHaque/infra-monitor) | Automated Linux system health telemetry, disk/memory alerting, and cron diagnostics | Python, Bash, Linux, Cron |
+| [CollabSheets](https://github.com/NejamulHaque/CollabSheets) | Real-time collaborative spreadsheet web app powered by WebSockets | React, Node.js, WebSockets, PostgreSQL |
+| [ProResume-Builder](https://github.com/NejamulHaque/ProResume-Builder) | ATS-friendly resume builder SaaS with authentication and database persistence | Next.js, Node.js, PostgreSQL |
 | [Nestfy](https://github.com/NejamulHaque/Nestfy) | Smart personal finance tracker with automated expense categorization | React, Node.js, PostgreSQL |
 
 </details>
 
 <p align="center">
-  <a href="[https://github.com/NejamulHaque?tab=repositories](https://github.com/NejamulHaque?tab=repositories)"><img src="[https://img.shields.io/badge/Explore_All_Repositories-00D9FF?style=for-the-badge&logo=github&logoColor=black](https://img.shields.io/badge/Explore_All_Repositories-00D9FF?style=for-the-badge&logo=github&logoColor=black)" alt="Explore All Repositories"/></a>
+  <a href="https://github.com/NejamulHaque?tab=repositories"><img src="https://img.shields.io/badge/Explore_All_Repositories-00D9FF?style=for-the-badge&logo=github&logoColor=black" alt="Explore All Repositories"/></a>
 </p>
 
 ---
 
-### 🧠 DevSecOps Pipeline Architecture
+### 🧠 Automated CI/CD & Cloud Delivery Pipeline
 
 ```mermaid
 graph LR
-    A[Developer Commit] -->|Pre-Commit| B{Secret Scan<br/>GitShield}
+    A[Developer Commit] -->|Pre-Commit| B{Secret Check<br/>GitShield}
     B -->|Clean| C[GitHub Actions CI]
-    C --> D{SAST<br/>Semgrep / Bandit}
-    D -->|Pass| E{SCA & IaC Scan<br/>Trivy}
+    C --> D{Code & Lint<br/>Semgrep / Bandit}
+    D -->|Pass| E{IaC & Config Scan<br/>Terraform + Trivy}
     E -->|Pass| F[Build Docker Image]
-    F --> G{Container Scan<br/>Trivy}
+    F --> G{Image Scan<br/>Trivy}
     G -->|Pass| H[Deploy K8s / AWS]
-    H --> I{Runtime Defense<br/>Sentinel / Prometheus}
+    H --> I{Monitoring & Alerts<br/>Prometheus / Grafana}
     I --> J[Continuous Feedback]
     B -->|Blocked| K[❌ Reject Commit]
     D -->|Fail| K
@@ -195,26 +195,26 @@ graph LR
 
 <!-- STATS & TOP LANGUAGES -->
 <p align="center">
-  <img height="175" src="[https://github-readme-stats.vercel.app/api?username=NejamulHaque&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00E5FF&icon_color=00E5FF&text_color=C9D1D9](https://github-readme-stats.vercel.app/api?username=NejamulHaque&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00E5FF&icon_color=00E5FF&text_color=C9D1D9)" alt="GitHub Stats"/>
-  <img height="175" src="[https://github-readme-stats.vercel.app/api/top-langs/?username=NejamulHaque&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00E5FF&text_color=C9D1D9](https://github-readme-stats.vercel.app/api/top-langs/?username=NejamulHaque&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00E5FF&text_color=C9D1D9)" alt="Top Languages"/>
+  <img height="175" src="https://github-readme-stats.vercel.app/api?username=NejamulHaque&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00E5FF&icon_color=00E5FF&text_color=C9D1D9" alt="GitHub Stats"/>
+  <img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NejamulHaque&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00E5FF&text_color=C9D1D9" alt="Top Languages"/>
 </p>
 
 <!-- STREAK -->
 <p align="center">
-  <img width="72%" src="[https://github-readme-streak-stats.herokuapp.com/?user=NejamulHaque&theme=dark&hide_border=true&background=0D1117&stroke=1a2238&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF&sideLabels=e8eeff&dates=8291b8&sideNums=00D9FF&currStreakNum=00D9FF](https://github-readme-streak-stats.herokuapp.com/?user=NejamulHaque&theme=dark&hide_border=true&background=0D1117&stroke=1a2238&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF&sideLabels=e8eeff&dates=8291b8&sideNums=00D9FF&currStreakNum=00D9FF)" alt="GitHub Streak"/>
+  <img width="72%" src="https://github-readme-streak-stats.herokuapp.com/?user=NejamulHaque&theme=dark&hide_border=true&background=0D1117&stroke=1a2238&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF&sideLabels=e8eeff&dates=8291b8&sideNums=00D9FF&currStreakNum=00D9FF" alt="GitHub Streak"/>
 </p>
 
 <!-- ACTIVITY GRAPH -->
 <p align="center">
-  <img width="95%" src="[https://github-readme-activity-graph.vercel.app/graph?username=NejamulHaque&theme=github-compact&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FFFFFF&hide_border=true&area=true&area_color=00D9FF](https://github-readme-activity-graph.vercel.app/graph?username=NejamulHaque&theme=github-compact&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FFFFFF&hide_border=true&area=true&area_color=00D9FF)" alt="Activity Graph"/>
+  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=NejamulHaque&theme=github-compact&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FFFFFF&hide_border=true&area=true&area_color=00D9FF" alt="Activity Graph"/>
 </p>
 
 <!-- CONTRIBUTION SNAKE -->
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="[https://raw.githubusercontent.com/NejamulHaque/NejamulHaque/output/github-contribution-grid-snake-dark.svg](https://raw.githubusercontent.com/NejamulHaque/NejamulHaque/output/github-contribution-grid-snake-dark.svg)"/>
-    <source media="(prefers-color-scheme: light)" srcset="[https://raw.githubusercontent.com/NejamulHaque/NejamulHaque/output/github-contribution-grid-snake.svg](https://raw.githubusercontent.com/NejamulHaque/NejamulHaque/output/github-contribution-grid-snake.svg)"/>
-    <img alt="Contribution snake" src="[https://raw.githubusercontent.com/NejamulHaque/NejamulHaque/output/github-contribution-grid-snake-dark.svg](https://raw.githubusercontent.com/NejamulHaque/NejamulHaque/output/github-contribution-grid-snake-dark.svg)"/>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/NejamulHaque/NejamulHaque/output/github-contribution-grid-snake-dark.svg"/>
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/NejamulHaque/NejamulHaque/output/github-contribution-grid-snake.svg"/>
+    <img alt="Contribution snake" src="https://raw.githubusercontent.com/NejamulHaque/NejamulHaque/output/github-contribution-grid-snake-dark.svg"/>
   </picture>
 </p>
 
@@ -224,28 +224,28 @@ graph LR
 
 | Status | Milestone / Certification | Focus Area |
 | :--- | :--- | :--- |
-| ✅ **Completed** | **Amroha Police Cyber Security Internship (APCSIP-2026)** | Network Forensics, Threat Analysis & Cyber Defense |
-| 🔄 **In Progress** | **AWS Cloud Practitioner · CompTIA Security+** | Cloud Security Architecture, IAM & Network Hardening |
-| 🎯 **Next Target** | **CKS (Certified Kubernetes Security Specialist) · AWS Security Specialty** | Cluster Hardening, Runtime Security & Zero-Trust Cloud |
+| ✅ **Completed** | **Amroha Police Cyber Security Internship (APCSIP-2026)** | Network Forensics, Threat Analysis & System Defense |
+| 🔄 **In Progress** | **AWS Certified Cloud Practitioner · HashiCorp Terraform Associate** | AWS Core Architecture, IAM, VPC & Infrastructure as Code |
+| 🎯 **Next Target** | **CKAD (Certified Kubernetes Application Developer) · RHCSA** | Container Orchestration, Cluster Operations & Linux Admin |
 
 ---
 
 ### 🌐 Connect & Collaborate
 
 <p align="center">
-  <a href="[https://nejamulhaque.vercel.app/](https://nejamulhaque.vercel.app/)"><img src="[https://img.shields.io/badge/](https://img.shields.io/badge/)🛡️_DevSecOps_Portfolio-00E5FF?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0D1117" alt="DevSecOps Portfolio"/></a>
-  <a href="[https://haqueandsons.vercel.app/](https://haqueandsons.vercel.app/)"><img src="[https://img.shields.io/badge/](https://img.shields.io/badge/)💼_Haque_And_Sons_Agency-7B5CFA?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0D1117" alt="Haque And Sons Agency"/></a>
+  <a href="https://nejamulhaque.vercel.app/"><img src="https://img.shields.io/badge/☁️_Cloud_&_DevOps_Portfolio-00E5FF?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0D1117" alt="Cloud Portfolio"/></a>
+  <a href="https://haqueandsons.vercel.app/"><img src="https://img.shields.io/badge/💼_Haque_And_Sons_Agency-7B5CFA?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0D1117" alt="Haque And Sons Agency"/></a>
 </p>
 
 <p align="center">
-  <a href="mailto:nejamulhaque.works@gmail.com"><img src="[https://img.shields.io/badge/EMAIL-FF6B6B?style=for-the-badge&logo=gmail&logoColor=white](https://img.shields.io/badge/EMAIL-FF6B6B?style=for-the-badge&logo=gmail&logoColor=white)" alt="Email"/></a>
-  <a href="[https://github.com/NejamulHaque](https://github.com/NejamulHaque)"><img src="[https://img.shields.io/badge/GITHUB-7B5CFA?style=for-the-badge&logo=github&logoColor=white](https://img.shields.io/badge/GITHUB-7B5CFA?style=for-the-badge&logo=github&logoColor=white)" alt="GitHub"/></a>
-  <a href="[https://linkedin.com/in/nejamulhaque](https://linkedin.com/in/nejamulhaque)"><img src="[https://img.shields.io/badge/LINKEDIN-00E5FF?style=for-the-badge&logo=linkedin&logoColor=black](https://img.shields.io/badge/LINKEDIN-00E5FF?style=for-the-badge&logo=linkedin&logoColor=black)" alt="LinkedIn"/></a>
-  <a href="[https://nejamulhaque.medium.com/](https://nejamulhaque.medium.com/)"><img src="[https://img.shields.io/badge/MEDIUM-00FF9D?style=for-the-badge&logo=medium&logoColor=black](https://img.shields.io/badge/MEDIUM-00FF9D?style=for-the-badge&logo=medium&logoColor=black)" alt="Medium"/></a>
+  <a href="mailto:nejamulhaque.works@gmail.com"><img src="https://img.shields.io/badge/EMAIL-FF6B6B?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+  <a href="https://github.com/NejamulHaque"><img src="https://img.shields.io/badge/GITHUB-7B5CFA?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
+  <a href="https://linkedin.com/in/nejamulhaque"><img src="https://img.shields.io/badge/LINKEDIN-00E5FF?style=for-the-badge&logo=linkedin&logoColor=black" alt="LinkedIn"/></a>
+  <a href="https://nejamulhaque.medium.com/"><img src="https://img.shields.io/badge/MEDIUM-00FF9D?style=for-the-badge&logo=medium&logoColor=black" alt="Medium"/></a>
 </p>
 
 <br>
 
 <div align="center">
-  <img src="[https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:161B22&height=120&section=footer&text=Always+securing,+always+automating.&fontSize=20&fontColor=8B949E&animation=twinkling](https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:161B22&height=120&section=footer&text=Always+securing,+always+automating.&fontSize=20&fontColor=8B949E&animation=twinkling)" width="100%" alt="Footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:161B22&height=120&section=footer&text=Always+building,+always+automating.&fontSize=20&fontColor=8B949E&animation=twinkling" width="100%" alt="Footer"/>
 </div>
