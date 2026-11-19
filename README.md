@@ -194,10 +194,14 @@ graph LR
 
 ### 📊 GitHub Telemetry & Contributions
 
-<!-- STATS & TOP LANGUAGES -->
+<!-- STATS & TOP LANGUAGES (Self-hosted on output branch via GitHub Actions) -->
 <p align="center">
-  <img height="175" src="https://github-readme-stats.vercel.app/api?username=NejamulHaque&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00E5FF&icon_color=00E5FF&text_color=C9D1D9" alt="GitHub Stats"/>
-  <img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NejamulHaque&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00E5FF&text_color=C9D1D9" alt="Top Languages"/>
+  <img height="175" src="https://raw.githubusercontent.com/NejamulHaque/NejamulHaque/output/cards/0-profile-details.svg" alt="Profile Details"/>
+  <img height="175" src="https://raw.githubusercontent.com/NejamulHaque/NejamulHaque/output/cards/3-stats.svg" alt="GitHub Stats"/>
+</p>
+<p align="center">
+  <img height="175" src="https://raw.githubusercontent.com/NejamulHaque/NejamulHaque/output/cards/1-repos-per-language.svg" alt="Repos per Language"/>
+  <img height="175" src="https://raw.githubusercontent.com/NejamulHaque/NejamulHaque/output/cards/2-most-commit-language.svg" alt="Most Commit Language"/>
 </p>
 
 <!-- STREAK -->
